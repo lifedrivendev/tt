@@ -6,16 +6,22 @@
  * Author: Sami Tekce
  */
 
-if ( ! defined( 'ABSPATH' ) ) {
+if (!defined('ABSPATH')) {
     exit;
 }
- 
-require_once plugin_dir_path( __FILE__ ) . 'includes/utils.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/deployment-ui.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/deployment-processor.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/partner-functions.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/artist-functions.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/art-functions.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/family-functions.php';
-require_once plugin_dir_path( __FILE__ ) . 'includes/page-content-functions.php';
+
+require_once plugin_dir_path(__FILE__) . 'includes/utils.php';
+require_once plugin_dir_path(__FILE__) . 'includes/deployment-ui.php';
+require_once plugin_dir_path(__FILE__) . 'includes/deployment-processor.php';
+require_once plugin_dir_path(__FILE__) . 'includes/partner-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/artist-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/art-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/family-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/page-content-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/website-options-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/venue-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/news-functions.php';
+
+
+
 

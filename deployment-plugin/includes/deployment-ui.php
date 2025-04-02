@@ -8,13 +8,13 @@ add_action('admin_menu', 's3_deployment_admin_menu');
 function s3_deployment_admin_menu()
 {
     add_menu_page(
-        'Deployment', // Page title
-        'Deployment', // Menu title
-        'manage_options', // Capability required
-        'deployment-plugin', // Menu slug
-        's3_deployment_page_callback', // Callback function to render the page
-        'dashicons-upload', // Icon
-        65 // Position
+        'Deployment',                      // Page title
+        'Deployment',                      // Menu title
+        'manage_options',                  // Capability required
+        'deployment-plugin',               // Menu slug
+        's3_deployment_page_callback',     // Callback function
+        'dashicons-upload',                // Icon
+        65                                 // Position
     );
 }
 
@@ -27,7 +27,7 @@ function s3_deployment_page_callback()
         wp_die(__('Insufficient permissions to access this page.'));
     }
 
-    // Check for deployment actions and call processor functions
+    // Deployment actions for staging and production...
     if (isset($_POST['deploy_staging']) && check_admin_referer('deploy_staging_action', 'deploy_staging_nonce')) {
         process_staging_deployment();
     }
@@ -42,7 +42,7 @@ function s3_deployment_page_callback()
         }
     }
 
-    // If "Generate Page Content" button is submitted, call the function and print the JSON to the console.
+    // If the Generate Page Content button is submitted.
     if (isset($_POST['generate_page_content']) && check_admin_referer('generate_page_content_action', 'generate_page_content_nonce')) {
         $upload_dir = wp_upload_dir();
         $target_dir = $upload_dir['basedir'] . '/shared_data/staging/';
@@ -56,7 +56,32 @@ function s3_deployment_page_callback()
         echo "<div class='updated'><p>Page content data printed to console. Open DevTools → Console.</p></div>";
     }
 
-    // Retrieve deployment info for production (if exists)
+    // Process the Get Website Options form submission.
+    if (isset($_POST['get_website_options']) && check_admin_referer('get_website_options_action', 'get_website_options_nonce')) {
+        $website_options = get_website_options();
+        $website_options_json = wp_json_encode($website_options);
+
+        echo '<script>';
+        echo 'console.log("Website Options JSON:", ' . $website_options_json . ');';
+        echo '</script>';
+
+        echo "<div class='updated'><p>Website options data printed to console. Open DevTools → Console.</p></div>";
+    }
+
+    // Process the Get Venue JSON form submission.
+    if (isset($_POST['get_venue_json']) && check_admin_referer('get_venue_json_action', 'get_venue_json_nonce')) {
+        $upload_dir = wp_upload_dir();
+        $target_dir = $upload_dir['basedir'] . '/shared_data/staging/';
+        $json_content = generate_venue_data_json_file($target_dir);
+
+        echo '<script>';
+        echo 'console.log("Venue JSON:", ' . $json_content . ');';
+        echo '</script>';
+
+        echo "<div class='updated'><p>Venue JSON data printed to console. Open DevTools → Console.</p></div>";
+    }
+
+    // (Optional) Retrieve production deployment info.
     $upload_dir = wp_upload_dir();
     $base_upload_path = $upload_dir['basedir'];
     $prod_target_dir = $base_upload_path . '/shared_data/prod/';
@@ -64,6 +89,7 @@ function s3_deployment_page_callback()
     $prod_deployment = file_exists($prod_file) ? file_get_contents($prod_file) : '';
     ?>
     <style>
+        /* Your CSS styles here */
         .deployment-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -97,31 +123,6 @@ function s3_deployment_page_callback()
 
         .confirm-container {
             margin-top: 15px;
-        }
-
-        .data-button {
-            margin-top: 30px;
-        }
-
-        /* Add styling for data output tables if needed */
-        .partner-data-table,
-        .artist-data-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-
-        .partner-data-table th,
-        .partner-data-table td,
-        .artist-data-table th,
-        .artist-data-table td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-
-        .partner-data-table th,
-        .artist-data-table th {
-            background-color: #f2f2f2;
         }
     </style>
     <div class="wrap">
@@ -164,14 +165,6 @@ function s3_deployment_page_callback()
             </form>
         </div>
     </div>
-    <script>
-        // Optional: log a message when the form is submitted.
-        const pageContentForm = document.getElementById('page-content-form');
-        if (pageContentForm) {
-            pageContentForm.addEventListener('submit', function () {
-                console.log("Generating Page Content JSON...");
-            });
-        }
-    </script>
     <?php
 }
+?>

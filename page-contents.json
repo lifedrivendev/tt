@@ -1,0 +1,297 @@
+[
+    {
+        "id": 279,
+        "slug_box": {
+            "en": "artists",
+            "fi": "laulajat"
+        },
+        "title_box": {
+            "en": "Artists",
+            "fi": "Laulajat"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_charlixcx.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-300x300.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-960x1200.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_charlixcx.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-300x300.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-1200x674.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx.jpg"
+                    }
+                }
+            ]
+        },
+        "flexible_page_structure": [
+            {
+                "text_content": {
+                    "en": "<p>&lt;strong&gt;”It’s difficult to discuss Flow Festival without falling into hyperbole.” – Under the Radar&lt;/strong&gt;</p>\n<p>Flow Festival 2025 is celebrated in the heart of Helsinki on the 8th–10th of August. Flow Festival’s program is a carefully thought out and handpicked combination of the brightest stars in pop and indie, the biggest names in DJ and club sounds, and a wide-ranging collection of experimental music.</p>\n",
+                    "fi": "<p>&lt;strong&gt;”It’s difficult to discuss Flow Festival without falling into hyperbole.” – Under the Radar&lt;/strong&gt;</p>\n<p>Flow Festivalia juhlitaan vuonna 2025 Helsingissä 8.–10. elokuuta. Flow’n ohjelma on huolellisesti kuratoitu kokonaisuus pop- ja indiemusiikin suurimpia tähtiä, DJ- ja klubimusiikin ykkösnimiä sekä kokeellista musiikkia Suomesta ja maailmalta.</p>\n"
+                }
+            },
+            {
+                "inserted_post_type": "artist"
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "slug_box": {
+            "en": "partners",
+            "fi": "partnerit"
+        },
+        "title_box": {
+            "en": "Partners",
+            "fi": "Partnerit"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_kneecap.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-1638x2048.jpg"
+                    }
+                },
+                {
+                    "filename": "Pysty_joyorbison.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-1638x2048.jpg"
+                    }
+                },
+                {
+                    "filename": "Pysty_montellfish.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_kneecap.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap.jpg"
+                    }
+                },
+                {
+                    "filename": "Vaaka_montellfish.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish.jpg"
+                    }
+                },
+                {
+                    "filename": "Vaaka_joyorbison.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison.jpg"
+                    }
+                }
+            ]
+        },
+        "flexible_page_structure": [
+            {
+                "text_content": {
+                    "en": "<p>&lt;strong style=&#8221;font-size: 16px;&#8221;&gt;Main Partner 2025&lt;/strong&gt;&lt;span style=&#8221;font-size: 16px;&#8221;&gt;: &lt;/span&gt;&lt;a style=&#8221;font-size: 16px;&#8221; href=&#8221;https://www.heineken.com/global/en/agegateway?&#8221;&gt;Heineken&lt;/a&gt;</p>\n<p>&lt;strong&gt;Partners&lt;/strong&gt;: &lt;a href=&#8221;https://www.hartwall.fi/juomat/energiajuomat/cult/&#8221;&gt;Cult&lt;/a&gt;, &lt;a href=&#8221;https://www.google.com/&#8221;&gt;Google&lt;/a&gt;, &lt;a href=&#8221;https://www.myhelsinki.fi/fi/&#8221;&gt;Helsingin Kaupunki&lt;/a&gt;, &lt;a href=&#8221;https://lanson.com/en&#8221;&gt;Lanson&lt;/a&gt;, &lt;a href=&#8221;https://lyko.com/fi&#8221;&gt;Lyko&lt;/a&gt;, &lt;a href=&#8221;https://www.nordea.fi/&#8221;&gt;Nordea&lt;/a&gt;, &lt;a href=&#8221;https://www.scandichotels.com/&#8221;&gt;Scandic&lt;/a&gt;, &lt;a href=&#8221;https://www.tietoevry.com/en/&#8221;&gt;Tietoevry&lt;/a&gt;, &lt;a href=&#8221;https://www.vaasan.fi/&#8221;&gt;Vaasan&lt;/a&gt;</p>\n<p>&lt;strong&gt;Media Partners&lt;/strong&gt;: &lt;a href=&#8221;https://www.clearchannel.fi/en/&#8221;&gt;Clear Channel&lt;/a&gt;, &lt;a href=&#8221;https://www.finnkino.fi/&#8221;&gt;Finnkino&lt;/a&gt;, &lt;a href=&#8221;https://www.hs.fi/&#8221;&gt;Helsingin Sanomat&lt;/a&gt;, &lt;a href=&#8221;https://www.radiohelsinki.fi/&#8221;&gt;Radio Helsinki&lt;/a&gt;</p>\n<p>&lt;strong&gt;Production Partners&lt;/strong&gt;: &lt;a href=&#8221;https://ct-group.com/us/&#8221;&gt;Creative Technology&lt;/a&gt;, &lt;a href=&#8221;https://www.stopteltat.fi/&#8221;&gt;Stopteltat&lt;/a&gt;, &lt;a href=&#8221;https://www.suneffects.fi/en/&#8221;&gt;Sun Effects&lt;/a&gt;</p>\n<p>Join Flow Festival’s partnership network! Superb, world-class music program, stellar restaurant selection, and high-quality festival production together with Suvilahti’s unique environment offer our partners an unforgettable, versatile platform for many kinds of marketing activities.</p>\n<p>Partnering with us is efficient and influential, which is supported by research. We measure our results annually with Sponsor Insight’s visitor survey and Nielsen Sport’s Sponsorship Valuation research. Flow is not just an event, but a highly visible and prestigious media! We will tailor you a proposal, which will support your brand’s objectives in a way that is meaningful for our audience. Please contact us.</p>\n<p>Head of Sales and Marketing<br />\n&lt;strong&gt;Vilja Grotenfelt&lt;/strong&gt;<br />\nvilja AT flowfestival.com<br />\n+358 40 709 1612<br />\n&lt;h3&gt;&lt;b&gt;FROM OUR PARTNERS:&lt;/b&gt;&lt;/h3&gt;<br />\n&lt;em&gt;“For &lt;strong&gt;Lanson&lt;/strong&gt;, Flow Festival has become one of the most important points of sales and touchpoints with our audience. The long cooperation has made the champagne bar at Flow the place to be and the place to be seen in.”&lt;/em&gt;&lt;em&gt; &lt;/em&gt;&lt;strong&gt;Marianna Godenhjelm&lt;/strong&gt;, Business Unit Director, Hartwall.&lt;em&gt;&#8221;&lt;/em&gt;</p>\n<p>&lt;em&gt;&#8221;Self-expression and creativity are at the heart of both Flow Festival and Lyko – that’s why our partnership came naturally. We want to offer festivalgoers an inspiring space, our Beauty Playground, where one can play with their style and enjoy beauty without rules.&#8221;&lt;/em&gt; &lt;strong&gt;Netta Kuhlberg&lt;/strong&gt;, Country Manager Finland, Lyko</p>\n<p>&lt;em&gt;“Responsibility and experiences are things that unite us. At Flow, experiences are based on the sense of community, music, art and good food, where &lt;strong&gt;Vaasan&lt;/strong&gt; Street food fits perfectly. ”&lt;/em&gt; &lt;strong&gt;Katja Willberg&lt;/strong&gt;, Marketing Strategist, Vaasan Oy</p>\n<p>&lt;em&gt;&#8221;Together with Flow Festival, we share a passion for creating unforgettable experiences sustainably. At &lt;strong&gt;Scandic&lt;/strong&gt;, we’re thrilled to provide festivalgoers with the perfect event home &#8211; where the unique atmosphere of Flow Festival extends beyond the event grounds, offering guests a place to relax and recharge.”&lt;/em&gt; &lt;strong&gt;Nina Hägerström&lt;/strong&gt;, Marketing Director, Scandic Finland</p>\n<p>&lt;em&gt;&#8221;It&#8217;s great that we get to bring our technological know-how to Flow&#8217;s use both during the festival and more widely in the events industry after the festival. We believe that by combining the core competence of &lt;strong&gt;Tietoevry Create&lt;/strong&gt;; design, data and more nature-friendly cloud-native development, we take Flow and the whole world towards a more sustainable tomorrow.&#8221;&lt;/em&gt; &lt;strong&gt;Juha Kurppa&lt;/strong&gt;, Head of Custom Development &amp;amp; Operations, Tietoevry Create</p>\n<p>&lt;em&gt;&#8221;The long-standing partnership between outdoor advertising company &lt;strong&gt;Clear Channel&lt;/strong&gt; and Flow Festival isn&#8217;t just about media visibility, but rather the collaboration of two trailblazers in their respective industries. &lt;/em&gt;&lt;em&gt;For Clear Channel, it&#8217;s important to be involved in events that enliven cities and bring joy to people&#8217;s daily lives – therefore, our cooperation with Flow fits perfectly with our purpose to be A Platform for Brands &amp;amp; A Platform for Good.&#8221;&lt;/em&gt; &lt;strong&gt;Nina Myllyharju&lt;/strong&gt;, Head of Marketing and Communications, Clear Channel</p>\n<p>&amp;nbsp;</p>\n",
+                    "fi": "<p>&lt;strong style=&#8221;font-size: 16px;&#8221;&gt;Pääyhteistyökumppani 2025&lt;/strong&gt;&lt;span style=&#8221;font-size: 16px;&#8221;&gt;: &lt;/span&gt;&lt;a style=&#8221;font-size: 16px;&#8221; href=&#8221;https://www.heineken.com/global/en/agegateway?&#8221;&gt;Heineken&lt;/a&gt;</p>\n<p>&lt;strong&gt;Kumppanit&lt;/strong&gt;: &lt;a href=&#8221;https://www.hartwall.fi/juomat/energiajuomat/cult/&#8221;&gt;Cult&lt;/a&gt;, &lt;a href=&#8221;https://www.google.com/&#8221;&gt;Google&lt;/a&gt;, &lt;a href=&#8221;https://www.myhelsinki.fi/fi/&#8221;&gt;Helsingin Kaupunki&lt;/a&gt;, &lt;a href=&#8221;https://lanson.com/en&#8221;&gt;Lanson&lt;/a&gt;, &lt;a href=&#8221;https://lyko.com/fi&#8221;&gt;Lyko&lt;/a&gt;, &lt;a href=&#8221;https://www.nordea.fi/&#8221;&gt;Nordea&lt;/a&gt;, &lt;a href=&#8221;https://www.scandichotels.com/&#8221;&gt;Scandic&lt;/a&gt;, &lt;a href=&#8221;https://www.tietoevry.com/en/&#8221;&gt;Tietoevry&lt;/a&gt;, &lt;a href=&#8221;https://www.vaasan.fi/&#8221;&gt;Vaasan&lt;/a&gt;</p>\n<p>&lt;strong&gt;Mediakumppanit&lt;/strong&gt;: &lt;a href=&#8221;https://www.clearchannel.fi/en/&#8221;&gt;Clear Channel&lt;/a&gt;, &lt;a href=&#8221;https://www.finnkino.fi/&#8221;&gt;Finnkino&lt;/a&gt;, &lt;a href=&#8221;https://www.hs.fi/&#8221;&gt;Helsingin Sanomat&lt;/a&gt;, &lt;a href=&#8221;https://www.radiohelsinki.fi/&#8221;&gt;Radio Helsinki&lt;/a&gt;</p>\n<p>&lt;strong&gt;Tuotantokumppanit&lt;/strong&gt;: &lt;a href=&#8221;https://ct-group.com/us/&#8221;&gt;Creative Technology&lt;/a&gt;, &lt;a href=&#8221;https://www.stopteltat.fi/&#8221;&gt;Stopteltat&lt;/a&gt;, &lt;a href=&#8221;https://www.suneffects.fi/en/&#8221;&gt;Sun Effects&lt;/a&gt;</p>\n<p>Liity Flow Festivalin kumppaniverkostoon! Huippuluokan kansainvälinen musiikkiohjelma, vertaansa vailla oleva ravintolatarjonta ja korkeatasoinen festivaalituotanto yhdessä Suvilahden ainutlaatuisen alueen kanssa tarjoavat kumppaneillemme laadukkaan ja mieleenpainuvan alustan monenlaisille markkinointitoimenpiteille.</p>\n<p>Kumppanuuteemme on tutkitusti tehokasta ja vaikuttavaa. Mittaamme vuosittain tuloksiamme Sponsor Insightin kävijäkyselyllä ja Nielsen Sportin Sponsorship Valuation -tutkimuksella. Ota yhteyttä, niin mietitään miten brändisi voisi osallistua Flow´hun ja viestintäämme – Flow ei ole vain tapahtuma, vaan myös arvokas ja näkyvä media! Räätälöimme ehdotuksen, joka tukee brändinne tavoitteita yleisöllemme merkityksellisellä tavalla. Kysy lisää!</p>\n<p>Head of Sales and Marketing<br />\n&lt;strong&gt;Vilja Grotenfelt&lt;/strong&gt;<br />\nvilja AT flowfestival.com<br />\n+358 40 709 1612<br />\n&lt;h3&gt;AJATUKSIA YHTEISTYÖSTÄ:&lt;/h3&gt;<br />\n&#8220;&lt;em&gt;For &lt;strong&gt;Lanson&lt;/strong&gt;, Flow Festival has become one of the most important points of sales and touchpoints with our audience. The long cooperation has made the champagne bar at Flow the place to be and the place to be seen in.&lt;/em&gt;” &lt;strong&gt;Marianna Godenhjelm&lt;/strong&gt;, Business Unit Director, Hartwall.</p>\n<p>&lt;em&gt;&#8221;Itsensä ilmaisu ja luovuus ovat sekä Flow Festivalin että Lykon ytimessä – siksi kumppanuutemme syntyi kuin luonnostaan. Haluamme tarjota festarikävijöille inspiroivan tilan, Beauty Playgroundin, jossa jokainen saa leikkiä tyylillään ja nauttia kauneudesta ilman sääntöjä.&#8221;&lt;/em&gt; &lt;strong&gt;Netta Kuhlberg&lt;/strong&gt;, Country Manager Finland, Lyko</p>\n<p>”&lt;em&gt;Vastuullisuus&lt;/em&gt;&lt;i&gt; ja elämyksellisyys ovat asioita, jotka yhdistävät meitä ja Flow Festivalia. Flow&#8217;ssa elämyksellisyys perustuu yhdessäoloon, musiikkiin, taiteeseen ja hyvään ruokaan, mihin &lt;strong&gt;Vaasan Street food&lt;/strong&gt; istuu mainiosti.” &lt;/i&gt;&lt;strong&gt;Katja Willberg&lt;/strong&gt;, Marketing Strategist, Vaasan Oy</p>\n<p>&lt;em&gt;&#8221;Together with Flow Festival, we share a passion for creating unforgettable experiences sustainably. At &lt;strong&gt;Scandic&lt;/strong&gt;, we’re thrilled to provide festivalgoers with the perfect event home &#8211; where the unique atmosphere of Flow Festival extends beyond the event grounds, offering guests a place to relax and recharge.”&lt;/em&gt; &lt;strong&gt;Nina Hägerström&lt;/strong&gt;, Marketing Director, Scandic Finland</p>\n<p>&lt;em&gt;”On mahtavaa, että saamme tuoda teknologiaosaamisemme Flown käyttöön sekä festivaalien aikana että laajemmin tapahtuma-alalle festivaalien jälkeen. Uskomme siihen, että yhdistämällä &lt;strong&gt;Tietoevry Createn&lt;/strong&gt; ydinosaamista; designia, dataa sekä luontoystävällisempää pilvinatiivia kehitystä viemme Flow&#8217;ta sekä koko maailmaa kohti kestävämpää huomista.”&lt;/em&gt; &lt;strong&gt;Juha Kurppa&lt;/strong&gt;, Head of Custom Development &amp;amp; Operations, Tietoevry Create</p>\n<p>&lt;em&gt;&#8221;Ulkomainosyhtiö &lt;strong&gt;Clear Channelin&lt;/strong&gt; ja Flow Festivalin pitkäaikaisessa kumppanuudessa kyse ei ole pelkästään medianäkyvyydestä, vaan kahden oman toimialansa suunnannäyttäjän yhteistyöstä. &lt;/em&gt;&lt;em&gt;Clear Channelille on tärkeää olla mukana tapahtumissa, jotka elävöittävät kaupunkeja ja tuovat onnellisuutta ihmisten arkeen – yhteistyö Flow’n kanssa sopii siten erinomaisesti tarkoitukseemme olla A Platform for Brands &amp;amp; A Platform for Good.&lt;/em&gt;&lt;em&gt;&#8221; &lt;/em&gt;&lt;strong&gt;Nina Myllyharju&lt;/strong&gt;, Head of Marketing and Communications, Clear Channel</p>\n"
+                }
+            },
+            {
+                "inserted_post_type": "partner"
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "slug_box": {
+            "en": "getting-there",
+            "fi": "saapuminen"
+        },
+        "title_box": {
+            "en": "Getting there",
+            "fi": "Saapuminen"
+        },
+        "description_box": {
+            "en": "<p>The festival area is located near the centre of Helsinki, easily accessible by public transportation, bike or foot. We recommend using public transportation or cycling when coming to the festival.</p><br><p>&lt;strong&gt;Street address:&lt;/strong&gt; &lt;a href=&#8221;https://www.google.fi/maps/place/Parrukatu,+00101+Helsinki/@60.1845809,24.9660999,17z&#8221;&gt;Parrukatu, 00540 Helsinki&lt;/a&gt;.</p><br><p>Get to know the festival&#8217;s area map &lt;a href=&#8221;/en/flow-info/venues/&#8221;&gt;here&lt;/a&gt;.</p><br><p>There isn’t parking for cars at the festival area or its immediate surroundings.<br /><br>&lt;h3&gt;Public transportation&lt;/h3&gt;<br /><br>The festival site is located in the public transportation zone AB. In zone A you need an AB, ABC or ABCD ticket, depending on the area you travel in. A one-zone ticket is available only in zone D. &lt;a href=&#8221;https://www.hsl.fi/en/newzones&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Read more about the zones&lt;/a&gt;.</p><br><p>The closest stations and stops:<br /><br>Metro – Sörnäinen and Kalasatama<br /><br>Bus – Suvilahti and Sörnäinen (M)<br /><br>Tram – Sörnäinen (M), Lintulahti, Helsinginkatu and Kaarlenkatu</p><br><p>For more detailed information about public transportation, please visit &lt;a href=&#8221;https://www.hsl.fi/en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;The Helsinki Region journey planner (Reittiopas) by HSL&lt;/a&gt;.</p><br><p>In addition to regular services, HSL will organise additional night services on the Helsinki metro during the festival weekend.</p><br><p>Travelling tickets can be purchased from ticket vending machines, the HSL app, parking ticket machines, R-Kioski kiosks, and HSL service points.</p><br><p>Check all the ticket selling points, ticket machines, and service point locations &lt;a href=&#8221;https://www.hsl.fi/en/tickets&#8221;&gt;here&lt;/a&gt;.</p><br><p>If you arrive at Flow from outside the capital region, we recommend you travel by &lt;a href=&#8221;https://www.vr.fi/en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;train&lt;/a&gt;.<br /><br>&lt;h3&gt;HSL App&lt;/h3&gt;<br /><br>HSL’s tickets, Journey Planner and transport information tailored specifically for you — all in one app! The HSL app is available for Android and Apple iOS devices free of charge. Download &lt;a href=&#8221;https://www.hsl.fi/en/app&#8221;&gt;here&lt;/a&gt;.<br /><br>&lt;h3&gt;Bicycle parking&lt;/h3&gt;<br /><br>Biking is one of the most convenient ways to arrive at the festival. Flow’s bicycle parking is one of the largest seen in Finland, and the area is free of charge. Please note that the bicycle parking area is not guarded, and Flow Festival is not responsible for parked bicycles.<br /><br>&lt;h3&gt;Redi Parking&lt;/h3&gt;<br /><br>If you arrive by car, you will find the nearest parking garage in the Kalasatama shopping center &lt;a href=&#8221;https://www.redi.fi/?lang=en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Redi.&lt;/a&gt;</p><br><p>Street address: &lt;a href=&#8221;https://g.page/redihelsinki?share&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Hermannin rantatie 5, 00580 Helsinki.&lt;/a&gt;</p><br><p>Read more about Redi&#8217;s parking &lt;a href=&#8221;https://www.redi.fi/parking/?lang=en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;here.&lt;/a&gt;<br /><br>&lt;h3&gt;&lt;span style=&#8221;font-size: 16px;&#8221;&gt;Taxi&lt;/span&gt;&lt;/h3&gt;<br /><br>You can order a taxi by calling +358 100 0700. Taxis in Finland are reliable and always run by meter.</p><br><p>A temporary taxi stand is located opposite the bicycle parking area on Lintulahdenkuja. Please note that it is not possible to order taxis elsewhere in the Suvilahti area as all taxis leave from the temporary taxi stand.</p><br><p>When using taxi applications (e.g. Uber) or ordering alternative taxis, please note that cars won’t be able to stop at Sörnäisten Rantatie or the immediate surroundings of the festival.</p><br><p>Read about the wheelchair-accessible taxis &lt;a href=&#8221;https://www.flowfestival.com/en/flow-info/faq/&#8221;&gt;here&lt;/a&gt;.</p><br>",
+            "fi": "<p>Festivaalialue sijaitsee Suvilahdessa, lähellä Helsingin keskustaa, ja kannustammekin festivaalialueelle tulemista julkisilla kulkuneuvoilla, kävellen tai pyörällä.</p><br><p>&lt;strong&gt;Katuosoite&lt;/strong&gt;: &lt;a href=&#8221;https://www.google.fi/maps/place/Parrukatu,+00101+Helsinki/@60.1845809,24.9660999,17z&#8221;&gt;Parrukatu, 00540 Helsinki&lt;/a&gt;.</p><br><p>Festivaalialueen keskeisen sijainnin vuoksi festivaalin välittömässä läheisyydessä ei sijaitse parkkipaikkoja.<br /><br>&lt;h3&gt;Julkinen liikenne&lt;/h3&gt;<br /><br>Suosittelemme saapumaan festivaalialueelle metrolla, bussilla tai raitiovaunulla. Festivaalialue sijaitsee HSL:n AB-vyöhykkeellä. Huomaathan, että HSL:n matkalippua ei voi ostaa pelkälle A-vyöhykkeelle vaan tarvitset joko AB-; ABC- tai ABCD-lipun saapuessasi festivaalille joukkoliikenteellä. &lt;a href=&#8221;https://www.hsl.fi/uudetvyohykkeet&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Lue lisää vyöhykkeistä&lt;/a&gt;.</p><br><p>&lt;strong&gt;Julkisen liikenteen lähimmät pysäkit ja asemat ovat:&lt;/strong&gt;</p><br><p>Metro – Sörnäinen ja Kalasatama<br /><br>Bussit – Suvilahti ja Sörnäinen (M)<br /><br>Raitiovaunu – Sörnäinen (M), Lintulahti, Helsinginkatu ja Kaarlenkatu</p><br><p>Tarkempaa tietoa julkisista kulkuneuvoista ja reitit lähtöpisteestä Suvilahteen löydät &lt;a href=&#8221;https://reittiopas.hsl.fi/&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;HSL:n Reittioppaasta&lt;/a&gt;.</p><br><p>&lt;strong&gt;Julkisen liikenteen matkaliput voit ostaa monella tavalla:&lt;/strong&gt;</p><br><p>HSL-sovellus tarjoaa HSL:n matkaliput, Reittioppaan ja juuri sinulle kohdennetun liikennetiedon yhdessä sovelluksessa. HSL-sovelluksen voit ladata maksutta Android- ja iPhone –älypuhelimiin &lt;a href=&#8221;https://www.hsl.fi/sovellus&#8221;&gt;täältä&lt;/a&gt;. Matkalippuja voi ostaa myös lippuautomaateista, R-kioskilta sekä HSL:n palvelupisteiltä. Lisätietoja lippujen ostosta &lt;a href=&#8221;https://www.hsl.fi/liput&#8221;&gt;täältä&lt;/a&gt;.</p><br><p>Mikäli saavut Flow&#8217;hun pääkaupunkiseudun ulkopuolelta, suosittelemme saapumaan &lt;a href=&#8221;https://www.vr.fi/&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;junalla&lt;/a&gt;.<br /><br>&lt;h3&gt;&lt;strong&gt;Pyöräparkki&lt;/strong&gt;&lt;/h3&gt;<br /><br>Polkupyörällä saavut helpoiten festivaalialueelle. Suomen suurimpiin pyöräparkkeihin lukeutuva Flow Festivalin pyöräparkki on ilmainen festivaalin kävijöille. Huom! Pyöräparkki ei ole vartioitu eikä Flow Festival vastaa sinne jätetyistä pyöristä.<br /><br>&lt;h3&gt;Redi pysäköinti&lt;/h3&gt;<br /><br>Mikäli saavut autolla, Kalasataman &lt;a href=&#8221;https://www.redi.fi&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;kauppakeskus Redistä&lt;/a&gt; löytyy festivaalialuetta lähin pysäköintihalli.</p><br><p>Katuosoite: &lt;a href=&#8221;https://g.page/redihelsinki?share&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Hermannin rantatie 5, 00580 Helsinki.&lt;/a&gt;</p><br><p>Lue lisää Redin pysäköinnistä &lt;a href=&#8221;https://www.redi.fi/pysakointi/&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;täältä.&lt;/a&gt;<br /><br>&lt;h3&gt;&lt;strong&gt;Taksi&lt;/strong&gt;&lt;/h3&gt;<br /><br>Taksin voi tilata numerosta 0100 0700.</p><br><p>Väliaikainen taksitolppa ja taksien kääntöpaikka löytyy Lintulahdenkujalta, pyöräparkkia vastapäätä. Huomaathan erityisesti taksisovelluksia käyttäessäsi, että Suvilahteen ei voi tilata takseja ja että kaikki alueen taksit lähtevät tilapäiseltä taksitolpalta.</p><br><p>Mikäli käytät taksisovelluksia tai muita kuin Taksi Helsingin taksipalveluita (esim. Uberia), huomioithan että pysähtyminen Sörnäisten Rantatiellä tai festivaalin välittömässä läheisyydessä ei ole mahdollista.</p><br><p>Lue invataksien noutopisteistä &lt;a href=&#8221;https://www.flowfestival.com/flow-info/faq/&#8221;&gt;täältä&lt;/a&gt;.</p><br>"
+        },
+        "flexible_page_structure": [
+            {
+                "text_content": {
+                    "en": "<p>The festival area is located near the centre of Helsinki, easily accessible by public transportation, bike or foot. We recommend using public transportation or cycling when coming to the festival.</p>\n<p>&lt;strong&gt;Street address:&lt;/strong&gt; &lt;a href=&#8221;https://www.google.fi/maps/place/Parrukatu,+00101+Helsinki/@60.1845809,24.9660999,17z&#8221;&gt;Parrukatu, 00540 Helsinki&lt;/a&gt;.</p>\n<p>Get to know the festival&#8217;s area map &lt;a href=&#8221;/en/flow-info/venues/&#8221;&gt;here&lt;/a&gt;.</p>\n<p>There isn’t parking for cars at the festival area or its immediate surroundings.<br />\n&lt;h3&gt;Public transportation&lt;/h3&gt;<br />\nThe festival site is located in the public transportation zone AB. In zone A you need an AB, ABC or ABCD ticket, depending on the area you travel in. A one-zone ticket is available only in zone D. &lt;a href=&#8221;https://www.hsl.fi/en/newzones&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Read more about the zones&lt;/a&gt;.</p>\n<p>The closest stations and stops:<br />\nMetro – Sörnäinen and Kalasatama<br />\nBus – Suvilahti and Sörnäinen (M)<br />\nTram – Sörnäinen (M), Lintulahti, Helsinginkatu and Kaarlenkatu</p>\n<p>For more detailed information about public transportation, please visit &lt;a href=&#8221;https://www.hsl.fi/en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;The Helsinki Region journey planner (Reittiopas) by HSL&lt;/a&gt;.</p>\n<p>In addition to regular services, HSL will organise additional night services on the Helsinki metro during the festival weekend.</p>\n<p>Travelling tickets can be purchased from ticket vending machines, the HSL app, parking ticket machines, R-Kioski kiosks, and HSL service points.</p>\n<p>Check all the ticket selling points, ticket machines, and service point locations &lt;a href=&#8221;https://www.hsl.fi/en/tickets&#8221;&gt;here&lt;/a&gt;.</p>\n<p>If you arrive at Flow from outside the capital region, we recommend you travel by &lt;a href=&#8221;https://www.vr.fi/en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;train&lt;/a&gt;.<br />\n&lt;h3&gt;HSL App&lt;/h3&gt;<br />\nHSL’s tickets, Journey Planner and transport information tailored specifically for you — all in one app! The HSL app is available for Android and Apple iOS devices free of charge. Download &lt;a href=&#8221;https://www.hsl.fi/en/app&#8221;&gt;here&lt;/a&gt;.<br />\n&lt;h3&gt;Bicycle parking&lt;/h3&gt;<br />\nBiking is one of the most convenient ways to arrive at the festival. Flow’s bicycle parking is one of the largest seen in Finland, and the area is free of charge. Please note that the bicycle parking area is not guarded, and Flow Festival is not responsible for parked bicycles.<br />\n&lt;h3&gt;Redi Parking&lt;/h3&gt;<br />\nIf you arrive by car, you will find the nearest parking garage in the Kalasatama shopping center &lt;a href=&#8221;https://www.redi.fi/?lang=en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Redi.&lt;/a&gt;</p>\n<p>Street address: &lt;a href=&#8221;https://g.page/redihelsinki?share&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Hermannin rantatie 5, 00580 Helsinki.&lt;/a&gt;</p>\n<p>Read more about Redi&#8217;s parking &lt;a href=&#8221;https://www.redi.fi/parking/?lang=en&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;here.&lt;/a&gt;<br />\n&lt;h3&gt;&lt;span style=&#8221;font-size: 16px;&#8221;&gt;Taxi&lt;/span&gt;&lt;/h3&gt;<br />\nYou can order a taxi by calling +358 100 0700. Taxis in Finland are reliable and always run by meter.</p>\n<p>A temporary taxi stand is located opposite the bicycle parking area on Lintulahdenkuja. Please note that it is not possible to order taxis elsewhere in the Suvilahti area as all taxis leave from the temporary taxi stand.</p>\n<p>When using taxi applications (e.g. Uber) or ordering alternative taxis, please note that cars won’t be able to stop at Sörnäisten Rantatie or the immediate surroundings of the festival.</p>\n<p>Read about the wheelchair-accessible taxis &lt;a href=&#8221;https://www.flowfestival.com/en/flow-info/faq/&#8221;&gt;here&lt;/a&gt;.</p>\n",
+                    "fi": "<p>Festivaalialue sijaitsee Suvilahdessa, lähellä Helsingin keskustaa, ja kannustammekin festivaalialueelle tulemista julkisilla kulkuneuvoilla, kävellen tai pyörällä.</p>\n<p>&lt;strong&gt;Katuosoite&lt;/strong&gt;: &lt;a href=&#8221;https://www.google.fi/maps/place/Parrukatu,+00101+Helsinki/@60.1845809,24.9660999,17z&#8221;&gt;Parrukatu, 00540 Helsinki&lt;/a&gt;.</p>\n<p>Festivaalialueen keskeisen sijainnin vuoksi festivaalin välittömässä läheisyydessä ei sijaitse parkkipaikkoja.<br />\n&lt;h3&gt;Julkinen liikenne&lt;/h3&gt;<br />\nSuosittelemme saapumaan festivaalialueelle metrolla, bussilla tai raitiovaunulla. Festivaalialue sijaitsee HSL:n AB-vyöhykkeellä. Huomaathan, että HSL:n matkalippua ei voi ostaa pelkälle A-vyöhykkeelle vaan tarvitset joko AB-; ABC- tai ABCD-lipun saapuessasi festivaalille joukkoliikenteellä. &lt;a href=&#8221;https://www.hsl.fi/uudetvyohykkeet&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Lue lisää vyöhykkeistä&lt;/a&gt;.</p>\n<p>&lt;strong&gt;Julkisen liikenteen lähimmät pysäkit ja asemat ovat:&lt;/strong&gt;</p>\n<p>Metro – Sörnäinen ja Kalasatama<br />\nBussit – Suvilahti ja Sörnäinen (M)<br />\nRaitiovaunu – Sörnäinen (M), Lintulahti, Helsinginkatu ja Kaarlenkatu</p>\n<p>Tarkempaa tietoa julkisista kulkuneuvoista ja reitit lähtöpisteestä Suvilahteen löydät &lt;a href=&#8221;https://reittiopas.hsl.fi/&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;HSL:n Reittioppaasta&lt;/a&gt;.</p>\n<p>&lt;strong&gt;Julkisen liikenteen matkaliput voit ostaa monella tavalla:&lt;/strong&gt;</p>\n<p>HSL-sovellus tarjoaa HSL:n matkaliput, Reittioppaan ja juuri sinulle kohdennetun liikennetiedon yhdessä sovelluksessa. HSL-sovelluksen voit ladata maksutta Android- ja iPhone –älypuhelimiin &lt;a href=&#8221;https://www.hsl.fi/sovellus&#8221;&gt;täältä&lt;/a&gt;. Matkalippuja voi ostaa myös lippuautomaateista, R-kioskilta sekä HSL:n palvelupisteiltä. Lisätietoja lippujen ostosta &lt;a href=&#8221;https://www.hsl.fi/liput&#8221;&gt;täältä&lt;/a&gt;.</p>\n<p>Mikäli saavut Flow&#8217;hun pääkaupunkiseudun ulkopuolelta, suosittelemme saapumaan &lt;a href=&#8221;https://www.vr.fi/&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;junalla&lt;/a&gt;.<br />\n&lt;h3&gt;&lt;strong&gt;Pyöräparkki&lt;/strong&gt;&lt;/h3&gt;<br />\nPolkupyörällä saavut helpoiten festivaalialueelle. Suomen suurimpiin pyöräparkkeihin lukeutuva Flow Festivalin pyöräparkki on ilmainen festivaalin kävijöille. Huom! Pyöräparkki ei ole vartioitu eikä Flow Festival vastaa sinne jätetyistä pyöristä.<br />\n&lt;h3&gt;Redi pysäköinti&lt;/h3&gt;<br />\nMikäli saavut autolla, Kalasataman &lt;a href=&#8221;https://www.redi.fi&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;kauppakeskus Redistä&lt;/a&gt; löytyy festivaalialuetta lähin pysäköintihalli.</p>\n<p>Katuosoite: &lt;a href=&#8221;https://g.page/redihelsinki?share&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;Hermannin rantatie 5, 00580 Helsinki.&lt;/a&gt;</p>\n<p>Lue lisää Redin pysäköinnistä &lt;a href=&#8221;https://www.redi.fi/pysakointi/&#8221; target=&#8221;_blank&#8221; rel=&#8221;noopener&#8221;&gt;täältä.&lt;/a&gt;<br />\n&lt;h3&gt;&lt;strong&gt;Taksi&lt;/strong&gt;&lt;/h3&gt;<br />\nTaksin voi tilata numerosta 0100 0700.</p>\n<p>Väliaikainen taksitolppa ja taksien kääntöpaikka löytyy Lintulahdenkujalta, pyöräparkkia vastapäätä. Huomaathan erityisesti taksisovelluksia käyttäessäsi, että Suvilahteen ei voi tilata takseja ja että kaikki alueen taksit lähtevät tilapäiseltä taksitolpalta.</p>\n<p>Mikäli käytät taksisovelluksia tai muita kuin Taksi Helsingin taksipalveluita (esim. Uberia), huomioithan että pysähtyminen Sörnäisten Rantatiellä tai festivaalin välittömässä läheisyydessä ei ole mahdollista.</p>\n<p>Lue invataksien noutopisteistä &lt;a href=&#8221;https://www.flowfestival.com/flow-info/faq/&#8221;&gt;täältä&lt;/a&gt;.</p>\n"
+                }
+            }
+        ],
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_pehmoaino.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_pehmoaino.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino.jpg"
+                    }
+                }
+            ]
+        }
+    }
+]
