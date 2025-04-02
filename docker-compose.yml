@@ -1,0 +1,18 @@
+services:
+  wordpress:
+    build: .
+    image: flow-cms:latest
+    env_file:
+      - .env.local
+    ports:
+      - "8000:80"
+    cap_add:
+      - SYS_ADMIN
+    devices:
+      - "/dev/fuse:/dev/fuse"
+    security_opt:
+      - apparmor:unconfined
+    volumes:
+      - ./deployment-plugin:/var/www/html/wp-content/plugins/deployment-plugin
+      - ./custom-event-id-plugin:/var/www/html/wp-content/plugins/custom-event-id-plugin
+      - ./logs:/var/www/html/wp-content/logs
