@@ -48,7 +48,6 @@ function s3_deployment_page_callback()
         $target_dir = $upload_dir['basedir'] . '/shared_data/staging/';
         $json_content = generate_page_content_json_file($target_dir);
 
-        // Output inline JavaScript that prints the JSON content to the browser console.
         echo '<script>';
         echo 'console.log("Page Content JSON:", ' . $json_content . ');';
         echo '</script>';
@@ -79,6 +78,32 @@ function s3_deployment_page_callback()
         echo '</script>';
 
         echo "<div class='updated'><p>Venue JSON data printed to console. Open DevTools → Console.</p></div>";
+    }
+
+    // Process the Get News JSON form submission.
+    if (isset($_POST['get_news_json']) && check_admin_referer('get_news_json_action', 'get_news_json_nonce')) {
+        $upload_dir = wp_upload_dir();
+        $target_dir = $upload_dir['basedir'] . '/shared_data/staging/';
+        $json_content = generate_news_data_json_file($target_dir);
+
+        echo '<script>';
+        echo 'console.log("News JSON:", ' . $json_content . ');';
+        echo '</script>';
+
+        echo "<div class='updated'><p>News JSON data printed to console. Open DevTools → Console.</p></div>";
+    }
+
+    // Process the Get Ticket JSON form submission.
+    if (isset($_POST['get_ticket_json']) && check_admin_referer('get_ticket_json_action', 'get_ticket_json_nonce')) {
+        $upload_dir = wp_upload_dir();
+        $target_dir = $upload_dir['basedir'] . '/shared_data/staging/';
+        $json_content = generate_ticket_data_json_file($target_dir);
+
+        echo '<script>';
+        echo 'console.log("Ticket JSON:", ' . $json_content . ');';
+        echo '</script>';
+
+        echo "<div class='updated'><p>Ticket JSON data printed to console. Open DevTools → Console.</p></div>";
     }
 
     // (Optional) Retrieve production deployment info.
@@ -157,14 +182,23 @@ function s3_deployment_page_callback()
             </div>
         </div>
         <div class="deploy-form">
-            <div class="form-title">Generate Page Content JSON</div>
-            <form method="post" id="page-content-form">
-                <?php wp_nonce_field('generate_page_content_action', 'generate_page_content_nonce'); ?>
-                <input type="hidden" name="generate_page_content" value="1">
-                <?php submit_button('Generate Page Content', 'secondary deploy-btn', 'generate_page_content_btn'); ?>
+            <div class="form-title">Get Ticket JSON</div>
+            <form method="post">
+                <?php wp_nonce_field('get_ticket_json_action', 'get_ticket_json_nonce'); ?>
+                <input type="hidden" name="get_ticket_json" value="1">
+                <?php submit_button('Get Ticket JSON', 'secondary deploy-btn'); ?>
             </form>
         </div>
     </div>
+    <script>
+        // Optional: log a message when the Generate Page Content form is submitted.
+        const pageContentForm = document.getElementById('page-content-form');
+        if (pageContentForm) {
+            pageContentForm.addEventListener('submit', function () {
+                console.log("Generating Page Content JSON...");
+            });
+        }
+    </script>
     <?php
 }
 ?>

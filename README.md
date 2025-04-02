@@ -89,6 +89,6 @@ docker run --env-file .env -p 8000:80 --cap-add SYS_ADMIN --device /dev/fuse \
   -v ./deployment-plugin:/var/www/html/wp-content/plugins/deployment-plugin \
   cms:latest
 
-Main menu save
-News
-Tickets
+
+# Aikataulu type
+# Food

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 281,
+        "name": {
+            "en": "3 days",
+            "fi": "3 päivä"
+        },
+        "price": "193€",
+        "links": [
+            {
+                "label": "asds",
+                "url": "http://localhost:8000/wp-admin/post-new.php?post_type=ticket"
+            },
+            {
+                "label": "asdsad",
+                "url": "http://localhost:8000/wp-admin/post-new.php?post_type=ticketadasdasd"
+            }
+        ]
+    }
+]

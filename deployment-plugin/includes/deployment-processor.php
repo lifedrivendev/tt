@@ -6,8 +6,8 @@ if (!defined('ABSPATH')) {
 /**
  * Process deployment for a given environment.
  *
- * This function generates partner, artist, art, venue, family, page content, and website options JSON files
- * and writes them to the corresponding directory.
+ * This function generates partner, artist, art, venue, family, page content,
+ * website options, news, and ticket JSON files and writes them to the corresponding directory.
  *
  * @param string $env The environment type ('staging' or 'prod').
  */
@@ -87,7 +87,25 @@ function process_deployment($env)
         error_log("Website Options JSON file generated successfully during {$env} deployment.");
     }
 
-    echo "<div class='updated'><p>" . ucfirst($env) . " deployment completed successfully and partner, artist, art, venue, family, page content & website options data generated.</p></div>";
+    // Generate news JSON file.
+    $news_json = generate_news_data_json_file($target_dir);
+    if (false === $news_json) {
+        error_log("News JSON file generation failed during {$env} deployment.");
+        echo "<div class='error'><p>News JSON file generation failed during {$env} deployment.</p></div>";
+    } else {
+        error_log("News JSON file generated successfully during {$env} deployment.");
+    }
+
+    // Generate ticket JSON file.
+    $ticket_json = generate_ticket_data_json_file($target_dir);
+    if (false === $ticket_json) {
+        error_log("Ticket JSON file generation failed during {$env} deployment.");
+        echo "<div class='error'><p>Ticket JSON file generation failed during {$env} deployment.</p></div>";
+    } else {
+        error_log("Ticket JSON file generated successfully during {$env} deployment.");
+    }
+
+    echo "<div class='updated'><p>" . ucfirst($env) . " deployment completed successfully and partner, artist, art, venue, family, page content, website options, news & ticket data generated.</p></div>";
 }
 
 /**
