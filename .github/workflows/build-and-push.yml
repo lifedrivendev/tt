@@ -19,19 +19,21 @@ jobs:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
+          # Optional: role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/my-github-actions-role
 
       - name: Login to Amazon ECR Private
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
         with:
           mask-password: 'false'
-        # The action automatically picks up AWS credentials from the environment.
 
       - name: Build Docker image
         env:
           REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          REPOSITORY: my-repo  # Change to your repository name in ECR
+          REPOSITORY: my-repo
           IMAGE_TAG: ${{ github.sha }}
         run: |
           echo "Building image $REGISTRY/$REPOSITORY:$IMAGE_TAG"
