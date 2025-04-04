@@ -22,6 +22,8 @@ require_once plugin_dir_path(__FILE__) . 'includes/website-options-functions.php
 require_once plugin_dir_path(__FILE__) . 'includes/venue-functions.php';
 require_once plugin_dir_path(__FILE__) . 'includes/news-functions.php';
 require_once plugin_dir_path(__FILE__) . 'includes/ticket-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/food-functions.php';
+
 
 
 

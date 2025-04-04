@@ -1,0 +1,3636 @@
+[
+    {
+        "key": "group_67ec7e471be07",
+        "title": "Main Event Date",
+        "fields": [
+            {
+                "key": "field_67ec7e471a9f5",
+                "label": "Main Date",
+                "name": "main_date",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "8.-10.8.2025",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "website-settings"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67ec7cfa4e4a8",
+        "title": "Front Page Artist List",
+        "fields": [
+            {
+                "key": "field_67ec7d22b60c3",
+                "label": "Artist",
+                "name": "front_page_artists_list",
+                "aria-label": "",
+                "type": "relationship",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "post_type": [
+                    "artist"
+                ],
+                "post_status": [
+                    "publish"
+                ],
+                "taxonomy": "",
+                "filters": [
+                    "search"
+                ],
+                "return_format": "object",
+                "min": "",
+                "max": "",
+                "allow_in_bindings": 1,
+                "elements": "",
+                "bidirectional": 0,
+                "bidirectional_target": []
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "website-settings"
+                }
+            ]
+        ],
+        "menu_order": 1,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67ec7efdeb0fd",
+        "title": "Partner Banner Field",
+        "fields": [
+            {
+                "key": "field_67ec7f1a56a2e",
+                "label": "Banners",
+                "name": "banners",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67ec7f2e56a2f",
+                        "label": "URL",
+                        "name": "url",
+                        "aria-label": "",
+                        "type": "url",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "allow_in_bindings": 1,
+                        "placeholder": "",
+                        "parent_repeater": "field_67ec7f1a56a2e"
+                    },
+                    {
+                        "key": "field_67ec7f4056a30",
+                        "label": "Image",
+                        "name": "image",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "url",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "allow_in_bindings": 0,
+                        "preview_size": "medium",
+                        "parent_repeater": "field_67ec7f1a56a2e"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "website-settings"
+                }
+            ]
+        ],
+        "menu_order": 2,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67ec790ad8b00",
+        "title": "Ticket Fields",
+        "fields": [
+            {
+                "key": "field_67ec793e633d7",
+                "label": "Name",
+                "name": "name",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_67ec790b633d5",
+                        "label": "EN",
+                        "name": "en",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_67ec7961633d8",
+                        "label": "FI",
+                        "name": "fi",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_67ec792a633d6",
+                "label": "Price",
+                "name": "price",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_67ec7970633d9",
+                "label": "Links",
+                "name": "links",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67ec7984633da",
+                        "label": "Label",
+                        "name": "label",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67ec7970633d9"
+                    },
+                    {
+                        "key": "field_67ec798f633db",
+                        "label": "URL",
+                        "name": "url",
+                        "aria-label": "",
+                        "type": "url",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "parent_repeater": "field_67ec7970633d9"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "ticket"
+                }
+            ]
+        ],
+        "menu_order": 3,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_67ea1e0ed36f2",
+        "title": "Website Menu fields",
+        "fields": [
+            {
+                "key": "field_67ea1e0f3b786",
+                "label": "Main Menu Item",
+                "name": "main_menu_item",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67ea1e273b787",
+                        "label": "EN",
+                        "name": "en",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67ea1e0f3b786"
+                    },
+                    {
+                        "key": "field_67ea1e2f3b788",
+                        "label": "FI",
+                        "name": "fi",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67ea1e0f3b786"
+                    },
+                    {
+                        "key": "field_67ea1e443b789",
+                        "label": "Connected Page",
+                        "name": "connected_page",
+                        "aria-label": "",
+                        "type": "relationship",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "page-content"
+                        ],
+                        "post_status": [
+                            "publish"
+                        ],
+                        "taxonomy": "",
+                        "filters": [
+                            "search"
+                        ],
+                        "return_format": "object",
+                        "min": "",
+                        "max": 1,
+                        "allow_in_bindings": 0,
+                        "elements": "",
+                        "bidirectional": 0,
+                        "bidirectional_target": [],
+                        "parent_repeater": "field_67ea1e0f3b786"
+                    },
+                    {
+                        "key": "field_67ea1f0247204",
+                        "label": "Child Menu Item",
+                        "name": "child_menu_item",
+                        "aria-label": "",
+                        "type": "repeater",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "60",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "table",
+                        "min": 0,
+                        "max": 0,
+                        "collapsed": "",
+                        "button_label": "Add Row",
+                        "rows_per_page": 20,
+                        "sub_fields": [
+                            {
+                                "key": "field_67ea1f0e47205",
+                                "label": "EN",
+                                "name": "en",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": "",
+                                "parent_repeater": "field_67ea1f0247204"
+                            },
+                            {
+                                "key": "field_67ea1f1a47206",
+                                "label": "FI",
+                                "name": "fi",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": "",
+                                "parent_repeater": "field_67ea1f0247204"
+                            },
+                            {
+                                "key": "field_67ea1f2547208",
+                                "label": "Connected Page",
+                                "name": "connected_page",
+                                "aria-label": "",
+                                "type": "relationship",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "post_type": [
+                                    "page-content"
+                                ],
+                                "post_status": [
+                                    "publish"
+                                ],
+                                "taxonomy": "",
+                                "filters": [
+                                    "search"
+                                ],
+                                "return_format": "object",
+                                "min": "",
+                                "max": 1,
+                                "allow_in_bindings": 0,
+                                "elements": "",
+                                "bidirectional": 0,
+                                "bidirectional_target": [],
+                                "parent_repeater": "field_67ea1f0247204"
+                            }
+                        ],
+                        "parent_repeater": "field_67ea1e0f3b786"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "website-settings"
+                }
+            ]
+        ],
+        "menu_order": 4,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_67aeaedd8e26e",
+        "title": "Website Menu",
+        "fields": [
+            {
+                "key": "field_67aeaede1f471",
+                "label": "Menu Box",
+                "name": "menu_box",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "row",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67aeaf0e1f472",
+                        "label": "Menu Item Label English",
+                        "name": "label_en",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67aeaede1f471"
+                    },
+                    {
+                        "key": "field_67aeaf351f473",
+                        "label": "Menu Item Label Finnish",
+                        "name": "label_fi",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67aeaede1f471"
+                    },
+                    {
+                        "key": "field_67aeb0091f479",
+                        "label": "Related Post",
+                        "name": "related_post",
+                        "aria-label": "",
+                        "type": "post_object",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "page-content"
+                        ],
+                        "post_status": [
+                            "publish"
+                        ],
+                        "taxonomy": "",
+                        "return_format": "object",
+                        "multiple": 0,
+                        "allow_null": 1,
+                        "allow_in_bindings": 0,
+                        "bidirectional": 0,
+                        "ui": 1,
+                        "bidirectional_target": [],
+                        "parent_repeater": "field_67aeaede1f471"
+                    },
+                    {
+                        "key": "field_67aeaf451f474",
+                        "label": "Sub-Menu Item",
+                        "name": "sub_item",
+                        "aria-label": "",
+                        "type": "repeater",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "table",
+                        "min": 0,
+                        "max": 0,
+                        "collapsed": "",
+                        "button_label": "Add Row",
+                        "rows_per_page": 20,
+                        "sub_fields": [
+                            {
+                                "key": "field_67aeaf7d1f475",
+                                "label": "Sub-Menu Item Label English",
+                                "name": "label_en",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": "",
+                                "parent_repeater": "field_67aeaf451f474"
+                            },
+                            {
+                                "key": "field_67aeaf891f476",
+                                "label": "Sub-Menu Item Label Finnish",
+                                "name": "label_fi",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": "",
+                                "parent_repeater": "field_67aeaf451f474"
+                            },
+                            {
+                                "key": "field_67aeaf951f477",
+                                "label": "Related Page",
+                                "name": "related_page",
+                                "aria-label": "",
+                                "type": "post_object",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "post_type": [
+                                    "page-content"
+                                ],
+                                "post_status": [
+                                    "publish"
+                                ],
+                                "taxonomy": "",
+                                "return_format": "object",
+                                "multiple": 0,
+                                "allow_null": 0,
+                                "allow_in_bindings": 1,
+                                "bidirectional": 0,
+                                "ui": 1,
+                                "bidirectional_target": [],
+                                "parent_repeater": "field_67aeaf451f474"
+                            }
+                        ],
+                        "parent_repeater": "field_67aeaede1f471"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "menu"
+                }
+            ]
+        ],
+        "menu_order": 5,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aa734527e45",
+        "title": "Title",
+        "fields": [
+            {
+                "key": "field_67ce522d51b02",
+                "label": "Title Box",
+                "name": "title_box",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "sub_fields": [
+                    {
+                        "key": "field_67aa734535a67",
+                        "label": "English",
+                        "name": "en",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_67aa734535e0d",
+                        "label": "Finnish",
+                        "name": "fi",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "news"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "page-content"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "food"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ]
+        ],
+        "menu_order": 6,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "The title is content's main header, also will be shown as browser tab's title.",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aa73acd48b7",
+        "title": "Description",
+        "fields": [
+            {
+                "key": "field_67ce516c11b7c",
+                "label": "Description Box",
+                "name": "description_box",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "sub_fields": [
+                    {
+                        "key": "field_67aa73acde667",
+                        "label": "English",
+                        "name": "en",
+                        "aria-label": "",
+                        "type": "wysiwyg",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "allow_in_bindings": 1,
+                        "tabs": "all",
+                        "toolbar": "full",
+                        "media_upload": 1,
+                        "delay": 0
+                    },
+                    {
+                        "key": "field_67aa73acdea3b",
+                        "label": "Finnish",
+                        "name": "fi",
+                        "aria-label": "",
+                        "type": "wysiwyg",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "allow_in_bindings": 1,
+                        "tabs": "all",
+                        "toolbar": "full",
+                        "media_upload": 1,
+                        "delay": 0
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "news"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "food"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ]
+        ],
+        "menu_order": 7,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "The content of a post\/page.",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aa740fb0169",
+        "title": "Images",
+        "fields": [
+            {
+                "key": "field_67ce50dedd39c",
+                "label": "Images Box",
+                "name": "image_box",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "sub_fields": [
+                    {
+                        "key": "field_67aa74105c1a3",
+                        "label": "Portrait",
+                        "name": "portrait",
+                        "aria-label": "",
+                        "type": "gallery",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min": "",
+                        "max": "",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "insert": "append",
+                        "preview_size": "medium"
+                    },
+                    {
+                        "key": "field_67aa74495c1a4",
+                        "label": "Landscape",
+                        "name": "landscape",
+                        "aria-label": "",
+                        "type": "gallery",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min": "",
+                        "max": "",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "insert": "append",
+                        "preview_size": "medium"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "food"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "page-content"
+                }
+            ]
+        ],
+        "menu_order": 8,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "Post's\/page's images.",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aa74ae513c1",
+        "title": "Embedded Media",
+        "fields": [
+            {
+                "key": "field_67ce5271c4e25",
+                "label": "Embedded Box",
+                "name": "embedded_box",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "sub_fields": [
+                    {
+                        "key": "field_67aa74aee6e66",
+                        "label": "Spotify",
+                        "name": "spotify",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_67aa7508e6e67",
+                        "label": "Youtube",
+                        "name": "youtube",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ]
+        ],
+        "menu_order": 9,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "Embedded media fields for Spotify and Youtube",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aa771436b95",
+        "title": "Social Box",
+        "fields": [
+            {
+                "key": "field_67aa77141439e",
+                "label": "Social Box",
+                "name": "social_box",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67aa772a1439f",
+                        "label": "Name",
+                        "name": "name",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67aa77141439e"
+                    },
+                    {
+                        "key": "field_67aa7736143a0",
+                        "label": "Social Field",
+                        "name": "social_field",
+                        "aria-label": "",
+                        "type": "repeater",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "table",
+                        "min": 0,
+                        "max": 0,
+                        "collapsed": "",
+                        "button_label": "Add Row",
+                        "rows_per_page": 20,
+                        "sub_fields": [
+                            {
+                                "key": "field_67aa7747143a1",
+                                "label": "Url",
+                                "name": "url",
+                                "aria-label": "",
+                                "type": "url",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "parent_repeater": "field_67aa7736143a0"
+                            },
+                            {
+                                "key": "field_67aa7751143a2",
+                                "label": "Type",
+                                "name": "type",
+                                "aria-label": "",
+                                "type": "select",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "choices": {
+                                    "bluesky": "bluesky",
+                                    "facebook": "facebook",
+                                    "instagram": "instagram",
+                                    "soundcloud": "soundcloud",
+                                    "spotify": "spotify",
+                                    "website": "website",
+                                    "x": "x",
+                                    "youtube": "youtube"
+                                },
+                                "default_value": false,
+                                "return_format": "value",
+                                "multiple": 0,
+                                "allow_null": 0,
+                                "allow_in_bindings": 0,
+                                "ui": 0,
+                                "ajax": 0,
+                                "placeholder": "",
+                                "parent_repeater": "field_67aa7736143a0"
+                            }
+                        ],
+                        "parent_repeater": "field_67aa77141439e"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "food"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ]
+        ],
+        "menu_order": 10,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "Person's expandable social media links box.",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aa78bda3d5e",
+        "title": "Event Field",
+        "fields": [
+            {
+                "key": "field_67aa78bd85ab1",
+                "label": "Scheduled Event",
+                "name": "event",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "table",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67aa78eb85ab2",
+                        "label": "Event Date",
+                        "name": "date",
+                        "aria-label": "",
+                        "type": "post_object",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "event-date"
+                        ],
+                        "post_status": "",
+                        "taxonomy": "",
+                        "return_format": "object",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "bidirectional": 0,
+                        "ui": 1,
+                        "bidirectional_target": [],
+                        "parent_repeater": "field_67aa78bd85ab1"
+                    },
+                    {
+                        "key": "field_67aa795085ab4",
+                        "label": "Event Time",
+                        "name": "time",
+                        "aria-label": "",
+                        "type": "time_picker",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "display_format": "H:i:s",
+                        "return_format": "H:i:s",
+                        "allow_in_bindings": 0,
+                        "parent_repeater": "field_67aa78bd85ab1"
+                    },
+                    {
+                        "key": "field_67aa7a35e9c9d",
+                        "label": "Event Duration",
+                        "name": "duration",
+                        "aria-label": "",
+                        "type": "number",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "min": "",
+                        "max": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "step": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67aa78bd85ab1"
+                    },
+                    {
+                        "key": "field_67aa798585ab5",
+                        "label": "Event Venue",
+                        "name": "venue",
+                        "aria-label": "",
+                        "type": "post_object",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "venue"
+                        ],
+                        "post_status": "",
+                        "taxonomy": "",
+                        "return_format": "id",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 1,
+                        "bidirectional": 0,
+                        "ui": 1,
+                        "bidirectional_target": [],
+                        "parent_repeater": "field_67aa78bd85ab1"
+                    },
+                    {
+                        "key": "field_67d4d66e9e660",
+                        "label": "Event ID",
+                        "name": "event_id",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "allow_in_bindings": 0,
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "parent_repeater": "field_67aa78bd85ab1"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ]
+        ],
+        "menu_order": 11,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "Event planning field with venue, date, time",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67ce7339eeef6",
+        "title": "Visibility",
+        "fields": [
+            {
+                "key": "field_67ce733ac16d4",
+                "label": "Visibility Box",
+                "name": "visibility_box",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_67ce737fc16d5",
+                        "label": "Main Page",
+                        "name": "main_page",
+                        "aria-label": "",
+                        "type": "true_false",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "message": "Exclude from Main page list",
+                        "default_value": 0,
+                        "allow_in_bindings": 0,
+                        "ui": 0,
+                        "ui_on_text": "",
+                        "ui_off_text": ""
+                    },
+                    {
+                        "key": "field_67ce73dec16d6",
+                        "label": "Schedule Page",
+                        "name": "schedule_page",
+                        "aria-label": "",
+                        "type": "true_false",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "message": "Exclude event from Schedule page list",
+                        "default_value": 0,
+                        "allow_in_bindings": 0,
+                        "ui": 0,
+                        "ui_on_text": "",
+                        "ui_off_text": ""
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "artist"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "art"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "family"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "talk"
+                }
+            ]
+        ],
+        "menu_order": 12,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aaa2a1d8e50",
+        "title": "Partners",
+        "fields": [
+            {
+                "key": "field_67aaa2a2cb092",
+                "label": "Partner Info",
+                "name": "partner",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_67aaa2ddcb093",
+                        "label": "URL",
+                        "name": "url",
+                        "aria-label": "",
+                        "type": "group",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "block",
+                        "sub_fields": [
+                            {
+                                "key": "field_67d5e2afb321b",
+                                "label": "English URL",
+                                "name": "en",
+                                "aria-label": "",
+                                "type": "url",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": ""
+                            },
+                            {
+                                "key": "field_67d5e2c2b321c",
+                                "label": "Finnish URL",
+                                "name": "fi",
+                                "aria-label": "",
+                                "type": "url",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": ""
+                            }
+                        ]
+                    },
+                    {
+                        "key": "field_67aaa3d74b147",
+                        "label": "Level",
+                        "name": "level",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "main_partner": "main_partner",
+                            "partner": "partner",
+                            "media_partner": "media_partner",
+                            "environmental_partner": "environmental_partner",
+                            "flow_talks_partner": "flow_talks_partner",
+                            "supporter": "supporter"
+                        },
+                        "default_value": false,
+                        "return_format": "value",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": ""
+                    },
+                    {
+                        "key": "field_67aaa313cb094",
+                        "label": "Logo",
+                        "name": "logo",
+                        "aria-label": "",
+                        "type": "image",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "return_format": "array",
+                        "library": "all",
+                        "min_width": "",
+                        "min_height": "",
+                        "min_size": "",
+                        "max_width": "",
+                        "max_height": "",
+                        "max_size": "",
+                        "mime_types": "",
+                        "allow_in_bindings": 0,
+                        "preview_size": "medium"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "partner"
+                }
+            ]
+        ],
+        "menu_order": 13,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67aed11dc99b4",
+        "title": "Food Menu Field",
+        "fields": [
+            {
+                "key": "field_67aed11e76fac",
+                "label": "Menu List Box",
+                "name": "menu_list_box",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "row",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_67ecd5440d6ec",
+                        "label": "Name",
+                        "name": "name",
+                        "aria-label": "",
+                        "type": "group",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "block",
+                        "sub_fields": [
+                            {
+                                "key": "field_67ecd54f0d6ed",
+                                "label": "EN",
+                                "name": "en",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": ""
+                            },
+                            {
+                                "key": "field_67ecd5550d6ee",
+                                "label": "FI",
+                                "name": "fi",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": ""
+                            }
+                        ],
+                        "parent_repeater": "field_67aed11e76fac"
+                    },
+                    {
+                        "key": "field_67aed16e76faf",
+                        "label": "Menu Item",
+                        "name": "menu_item",
+                        "aria-label": "",
+                        "type": "repeater",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "table",
+                        "min": 0,
+                        "max": 0,
+                        "collapsed": "",
+                        "button_label": "Add Row",
+                        "rows_per_page": 20,
+                        "sub_fields": [
+                            {
+                                "key": "field_67ecd5760d6ef",
+                                "label": "Title",
+                                "name": "title",
+                                "aria-label": "",
+                                "type": "group",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "layout": "block",
+                                "sub_fields": [
+                                    {
+                                        "key": "field_67ecd5840d6f0",
+                                        "label": "EN",
+                                        "name": "en",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": ""
+                                    },
+                                    {
+                                        "key": "field_67ecd58a0d6f1",
+                                        "label": "FI",
+                                        "name": "fi",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": ""
+                                    }
+                                ],
+                                "parent_repeater": "field_67aed16e76faf"
+                            },
+                            {
+                                "key": "field_67ecd59d0d6f2",
+                                "label": "Description",
+                                "name": "description",
+                                "aria-label": "",
+                                "type": "group",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "layout": "block",
+                                "sub_fields": [
+                                    {
+                                        "key": "field_67ecd5a80d6f3",
+                                        "label": "EN",
+                                        "name": "en",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": ""
+                                    },
+                                    {
+                                        "key": "field_67ecd5ae0d6f4",
+                                        "label": "FI",
+                                        "name": "fi",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": ""
+                                    }
+                                ],
+                                "parent_repeater": "field_67aed16e76faf"
+                            }
+                        ],
+                        "parent_repeater": "field_67aed11e76fac"
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "food"
+                }
+            ]
+        ],
+        "menu_order": 14,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "group_67ea16a5d3b4b",
+        "title": "Custom Page Fields",
+        "fields": [
+            {
+                "key": "field_67ea16a602d29",
+                "label": "Flexible Page Structure",
+                "name": "flexible_page_structure",
+                "aria-label": "",
+                "type": "flexible_content",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layouts": {
+                    "layout_67ea16cd4f2ee": {
+                        "key": "layout_67ea16cd4f2ee",
+                        "name": "post_type_field",
+                        "label": "Post Type Field",
+                        "display": "block",
+                        "sub_fields": [
+                            {
+                                "key": "field_67ea17cbb9dfe",
+                                "label": "Inserted Post Type",
+                                "name": "inserted_post_type",
+                                "aria-label": "",
+                                "type": "select",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "choices": {
+                                    "food": "Food",
+                                    "artist": "Artist",
+                                    "art": "Art",
+                                    "ticket": "Ticket",
+                                    "family": "Family",
+                                    "partner": "Partner"
+                                },
+                                "default_value": false,
+                                "return_format": "value",
+                                "multiple": 0,
+                                "allow_null": 0,
+                                "allow_in_bindings": 0,
+                                "ui": 0,
+                                "ajax": 0,
+                                "placeholder": ""
+                            }
+                        ],
+                        "min": "",
+                        "max": "1"
+                    },
+                    "layout_67ea19801227d": {
+                        "key": "layout_67ea19801227d",
+                        "name": "text_field",
+                        "label": "Text Field",
+                        "display": "block",
+                        "sub_fields": [
+                            {
+                                "key": "field_67ec929a7b14f",
+                                "label": "Text Content",
+                                "name": "text_content",
+                                "aria-label": "",
+                                "type": "group",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "layout": "block",
+                                "sub_fields": [
+                                    {
+                                        "key": "field_67ea185fad722",
+                                        "label": "EN",
+                                        "name": "en",
+                                        "aria-label": "",
+                                        "type": "wysiwyg",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "allow_in_bindings": 0,
+                                        "tabs": "all",
+                                        "toolbar": "full",
+                                        "media_upload": 1,
+                                        "delay": 0
+                                    },
+                                    {
+                                        "key": "field_67ec92c77b150",
+                                        "label": "FI",
+                                        "name": "fi",
+                                        "aria-label": "",
+                                        "type": "wysiwyg",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "allow_in_bindings": 0,
+                                        "tabs": "all",
+                                        "toolbar": "full",
+                                        "media_upload": 1,
+                                        "delay": 0
+                                    }
+                                ]
+                            }
+                        ],
+                        "min": "",
+                        "max": ""
+                    },
+                    "layout_67ea1a1cf0ccf": {
+                        "key": "layout_67ea1a1cf0ccf",
+                        "name": "accordion_field",
+                        "label": "Accordion Field",
+                        "display": "table",
+                        "sub_fields": [
+                            {
+                                "key": "field_67ea1ae3267b9",
+                                "label": "Title",
+                                "name": "title",
+                                "aria-label": "",
+                                "type": "group",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "25",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "layout": "block",
+                                "sub_fields": [
+                                    {
+                                        "key": "field_67ea1b0d267ba",
+                                        "label": "EN",
+                                        "name": "en",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": ""
+                                    },
+                                    {
+                                        "key": "field_67ea1b18267bb",
+                                        "label": "FI",
+                                        "name": "fi",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "field_67ea1b22267bc",
+                                "label": "Item",
+                                "name": "item",
+                                "aria-label": "",
+                                "type": "repeater",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "100",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "layout": "block",
+                                "min": 0,
+                                "max": 0,
+                                "collapsed": "",
+                                "button_label": "Add Row",
+                                "rows_per_page": 20,
+                                "sub_fields": [
+                                    {
+                                        "key": "field_67ea1b41267bd",
+                                        "label": "Subtitle",
+                                        "name": "subtitle",
+                                        "aria-label": "",
+                                        "type": "group",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "layout": "block",
+                                        "sub_fields": [
+                                            {
+                                                "key": "field_67ea1b4e267be",
+                                                "label": "EN",
+                                                "name": "en",
+                                                "aria-label": "",
+                                                "type": "text",
+                                                "instructions": "",
+                                                "required": 0,
+                                                "conditional_logic": 0,
+                                                "wrapper": {
+                                                    "width": "",
+                                                    "class": "",
+                                                    "id": ""
+                                                },
+                                                "default_value": "",
+                                                "maxlength": "",
+                                                "allow_in_bindings": 0,
+                                                "placeholder": "",
+                                                "prepend": "",
+                                                "append": ""
+                                            },
+                                            {
+                                                "key": "field_67ea1b55267bf",
+                                                "label": "FI",
+                                                "name": "fi",
+                                                "aria-label": "",
+                                                "type": "text",
+                                                "instructions": "",
+                                                "required": 0,
+                                                "conditional_logic": 0,
+                                                "wrapper": {
+                                                    "width": "",
+                                                    "class": "",
+                                                    "id": ""
+                                                },
+                                                "default_value": "",
+                                                "maxlength": "",
+                                                "allow_in_bindings": 0,
+                                                "placeholder": "",
+                                                "prepend": "",
+                                                "append": ""
+                                            }
+                                        ],
+                                        "parent_repeater": "field_67ea1b22267bc"
+                                    },
+                                    {
+                                        "key": "field_67ea1b5e267c0",
+                                        "label": "Content",
+                                        "name": "content",
+                                        "aria-label": "",
+                                        "type": "group",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "layout": "block",
+                                        "sub_fields": [
+                                            {
+                                                "key": "field_67ea1b6d267c1",
+                                                "label": "EN",
+                                                "name": "en",
+                                                "aria-label": "",
+                                                "type": "wysiwyg",
+                                                "instructions": "",
+                                                "required": 0,
+                                                "conditional_logic": 0,
+                                                "wrapper": {
+                                                    "width": "",
+                                                    "class": "",
+                                                    "id": ""
+                                                },
+                                                "default_value": "",
+                                                "allow_in_bindings": 1,
+                                                "tabs": "all",
+                                                "toolbar": "full",
+                                                "media_upload": 1,
+                                                "delay": 0
+                                            },
+                                            {
+                                                "key": "field_67ea1b74267c2",
+                                                "label": "FI",
+                                                "name": "fi",
+                                                "aria-label": "",
+                                                "type": "wysiwyg",
+                                                "instructions": "",
+                                                "required": 0,
+                                                "conditional_logic": 0,
+                                                "wrapper": {
+                                                    "width": "",
+                                                    "class": "",
+                                                    "id": ""
+                                                },
+                                                "default_value": "",
+                                                "allow_in_bindings": 1,
+                                                "tabs": "all",
+                                                "toolbar": "full",
+                                                "media_upload": 1,
+                                                "delay": 0
+                                            }
+                                        ],
+                                        "parent_repeater": "field_67ea1b22267bc"
+                                    }
+                                ]
+                            }
+                        ],
+                        "min": "",
+                        "max": ""
+                    }
+                },
+                "min": "",
+                "max": "",
+                "button_label": "Add Row"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "page-content"
+                }
+            ]
+        ],
+        "menu_order": 15,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 1
+    },
+    {
+        "key": "taxonomy_67ea133eabd84",
+        "title": "Custom Page Types",
+        "menu_order": 0,
+        "active": true,
+        "taxonomy": "custom-page-type",
+        "object_type": [
+            "page-content"
+        ],
+        "advanced_configuration": 1,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Custom Page Types",
+            "singular_name": "Custom Page Type",
+            "menu_name": "Custom Page Type",
+            "all_items": "All Custom Page Type",
+            "edit_item": "Edit Custom Page Type",
+            "view_item": "View Custom Page Type",
+            "update_item": "Update Custom Page Type",
+            "add_new_item": "Add New Custom Page Type",
+            "new_item_name": "New Custom Page Type Name",
+            "search_items": "Search Custom Page Type",
+            "popular_items": "Popular Custom Page Type",
+            "separate_items_with_commas": "Separate custom page type with commas",
+            "add_or_remove_items": "Add or remove custom page type",
+            "choose_from_most_used": "Choose from the most used custom page type",
+            "most_used": "",
+            "not_found": "No custom page type found",
+            "no_terms": "No custom page type",
+            "name_field_description": "",
+            "slug_field_description": "",
+            "desc_field_description": "",
+            "items_list_navigation": "Custom Page Type list navigation",
+            "items_list": "Custom Page Type list",
+            "back_to_items": "← Go to custom page type",
+            "item_link": "Custom Page Type Link",
+            "item_link_description": "A link to a custom page type"
+        },
+        "description": "",
+        "capabilities": {
+            "manage_terms": "manage_categories",
+            "edit_terms": "manage_categories",
+            "delete_terms": "manage_categories",
+            "assign_terms": "edit_posts"
+        },
+        "public": 1,
+        "publicly_queryable": 1,
+        "hierarchical": 0,
+        "show_ui": 1,
+        "show_in_menu": 1,
+        "show_in_nav_menus": 1,
+        "show_in_rest": 1,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Terms_Controller",
+        "show_tagcloud": 1,
+        "show_in_quick_edit": 1,
+        "show_admin_column": 0,
+        "rewrite": {
+            "permalink_rewrite": "taxonomy_key",
+            "with_front": "1",
+            "rewrite_hierarchical": "0"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "default_term": {
+            "default_term_enabled": "0"
+        },
+        "sort": 0,
+        "meta_box": "default",
+        "meta_box_cb": "",
+        "meta_box_sanitize_cb": ""
+    },
+    {
+        "key": "post_type_67aa9fd588c2d",
+        "title": "Artists",
+        "menu_order": 0,
+        "active": true,
+        "post_type": "artist",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Artists",
+            "singular_name": "Artist",
+            "menu_name": "Artists",
+            "all_items": "All Artists",
+            "edit_item": "Edit Artist",
+            "view_item": "View Artist",
+            "view_items": "View Artists",
+            "add_new_item": "Add New Artist",
+            "add_new": "Add New Artist",
+            "new_item": "New Artist",
+            "parent_item_colon": "Parent Artist:",
+            "search_items": "Search Artists",
+            "not_found": "No artists found",
+            "not_found_in_trash": "No artists found in Trash",
+            "archives": "Artist Archives",
+            "attributes": "Artist Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into artist",
+            "uploaded_to_this_item": "Uploaded to this artist",
+            "filter_items_list": "Filter artists list",
+            "filter_by_date": "Filter artists by date",
+            "items_list_navigation": "Artists list navigation",
+            "items_list": "Artists list",
+            "item_published": "Artist published.",
+            "item_published_privately": "Artist published privately.",
+            "item_reverted_to_draft": "Artist reverted to draft.",
+            "item_scheduled": "Artist scheduled.",
+            "item_updated": "Artist updated.",
+            "item_link": "Artist Link",
+            "item_link_description": "A link to a artist."
+        },
+        "description": "Artists",
+        "public": true,
+        "hierarchical": true,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": 0,
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-admin-users"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aaa68122ed9",
+        "title": "Arts",
+        "menu_order": 1,
+        "active": true,
+        "post_type": "art",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Arts",
+            "singular_name": "Art",
+            "menu_name": "Arts",
+            "all_items": "All Arts",
+            "edit_item": "Edit Art",
+            "view_item": "View Art",
+            "view_items": "View Arts",
+            "add_new_item": "Add New Art",
+            "add_new": "Add New Art",
+            "new_item": "New Art",
+            "parent_item_colon": "Parent Art:",
+            "search_items": "Search Arts",
+            "not_found": "No arts found",
+            "not_found_in_trash": "No arts found in Trash",
+            "archives": "Art Archives",
+            "attributes": "Art Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into art",
+            "uploaded_to_this_item": "Uploaded to this art",
+            "filter_items_list": "Filter arts list",
+            "filter_by_date": "Filter arts by date",
+            "items_list_navigation": "Arts list navigation",
+            "items_list": "Arts list",
+            "item_published": "Art published.",
+            "item_published_privately": "Art published privately.",
+            "item_reverted_to_draft": "Art reverted to draft.",
+            "item_scheduled": "Art scheduled.",
+            "item_updated": "Art updated.",
+            "item_link": "Art Link",
+            "item_link_description": "A link to a art."
+        },
+        "description": "Arts",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": 0,
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-art"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67d4d5a0d4569",
+        "title": "Event Dates",
+        "menu_order": 2,
+        "active": true,
+        "post_type": "event-date",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Event Dates",
+            "singular_name": "Event Date",
+            "menu_name": "Event Dates",
+            "all_items": "All Event Dates",
+            "edit_item": "Edit Event Date",
+            "view_item": "View Event Date",
+            "view_items": "View Event Dates",
+            "add_new_item": "Add New Event Date",
+            "add_new": "Add New Event Date",
+            "new_item": "New Event Date",
+            "parent_item_colon": "Parent Event Date:",
+            "search_items": "Search Event Dates",
+            "not_found": "No event dates found",
+            "not_found_in_trash": "No event dates found in Trash",
+            "archives": "Event Date Archives",
+            "attributes": "Event Date Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into event date",
+            "uploaded_to_this_item": "Uploaded to this event date",
+            "filter_items_list": "Filter event dates list",
+            "filter_by_date": "Filter event dates by date",
+            "items_list_navigation": "Event Dates list navigation",
+            "items_list": "Event Dates list",
+            "item_published": "Event Date published.",
+            "item_published_privately": "Event Date published privately.",
+            "item_reverted_to_draft": "Event Date reverted to draft.",
+            "item_scheduled": "Event Date scheduled.",
+            "item_updated": "Event Date updated.",
+            "item_link": "Event Date Link",
+            "item_link_description": "A link to a event date."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-calendar"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aaa51599d92",
+        "title": "Families",
+        "menu_order": 3,
+        "active": true,
+        "post_type": "family",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Families",
+            "singular_name": "Family",
+            "menu_name": "Families",
+            "all_items": "All Families",
+            "edit_item": "Edit Family",
+            "view_item": "View Family",
+            "view_items": "View Families",
+            "add_new_item": "Add New Family",
+            "add_new": "Add New Family",
+            "new_item": "New Family",
+            "parent_item_colon": "Parent Family:",
+            "search_items": "Search Families",
+            "not_found": "No families found",
+            "not_found_in_trash": "No families found in Trash",
+            "archives": "Family Archives",
+            "attributes": "Family Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into family",
+            "uploaded_to_this_item": "Uploaded to this family",
+            "filter_items_list": "Filter families list",
+            "filter_by_date": "Filter families by date",
+            "items_list_navigation": "Families list navigation",
+            "items_list": "Families list",
+            "item_published": "Family published.",
+            "item_published_privately": "Family published privately.",
+            "item_reverted_to_draft": "Family reverted to draft.",
+            "item_scheduled": "Family scheduled.",
+            "item_updated": "Family updated.",
+            "item_link": "Family Link",
+            "item_link_description": "A link to a family."
+        },
+        "description": "Families",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": 0,
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-universal-access"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aed07f3dc8f",
+        "title": "Foods",
+        "menu_order": 4,
+        "active": true,
+        "post_type": "food",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Foods",
+            "singular_name": "Food",
+            "menu_name": "Foods",
+            "all_items": "All Foods",
+            "edit_item": "Edit Food",
+            "view_item": "View Food",
+            "view_items": "View Foods",
+            "add_new_item": "Add New Food",
+            "add_new": "Add New Food",
+            "new_item": "New Food",
+            "parent_item_colon": "Parent Food:",
+            "search_items": "Search Foods",
+            "not_found": "No foods found",
+            "not_found_in_trash": "No foods found in Trash",
+            "archives": "Food Archives",
+            "attributes": "Food Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into food",
+            "uploaded_to_this_item": "Uploaded to this food",
+            "filter_items_list": "Filter foods list",
+            "filter_by_date": "Filter foods by date",
+            "items_list_navigation": "Foods list navigation",
+            "items_list": "Foods list",
+            "item_published": "Food published.",
+            "item_published_privately": "Food published privately.",
+            "item_reverted_to_draft": "Food reverted to draft.",
+            "item_scheduled": "Food scheduled.",
+            "item_updated": "Food updated.",
+            "item_link": "Food Link",
+            "item_link_description": "A link to a food."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-food"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aaaf64b2bde",
+        "title": "News",
+        "menu_order": 5,
+        "active": true,
+        "post_type": "news",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "News",
+            "singular_name": "News",
+            "menu_name": "News",
+            "all_items": "All News",
+            "edit_item": "Edit News",
+            "view_item": "View News",
+            "view_items": "View News",
+            "add_new_item": "Add New News",
+            "add_new": "Add New News",
+            "new_item": "New News",
+            "parent_item_colon": "Parent News:",
+            "search_items": "Search News",
+            "not_found": "No news found",
+            "not_found_in_trash": "No news found in Trash",
+            "archives": "News Archives",
+            "attributes": "News Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into news",
+            "uploaded_to_this_item": "Uploaded to this news",
+            "filter_items_list": "Filter news list",
+            "filter_by_date": "Filter news by date",
+            "items_list_navigation": "News list navigation",
+            "items_list": "News list",
+            "item_published": "News published.",
+            "item_published_privately": "News published privately.",
+            "item_reverted_to_draft": "News reverted to draft.",
+            "item_scheduled": "News scheduled.",
+            "item_updated": "News updated.",
+            "item_link": "News Link",
+            "item_link_description": "A link to a news."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-admin-post"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aeb79bb428b",
+        "title": "Page Contents",
+        "menu_order": 6,
+        "active": true,
+        "post_type": "page-content",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Page Contents",
+            "singular_name": "Page Content",
+            "menu_name": "Page Contents",
+            "all_items": "All Page Contents",
+            "edit_item": "Edit Page Content",
+            "view_item": "View Page Content",
+            "view_items": "View Page Contents",
+            "add_new_item": "Add New Page Content",
+            "add_new": "Add New Page Content",
+            "new_item": "New Page Content",
+            "parent_item_colon": "Parent Page Content:",
+            "search_items": "Search Page Contents",
+            "not_found": "No page contents found",
+            "not_found_in_trash": "No page contents found in Trash",
+            "archives": "Page Content Archives",
+            "attributes": "Page Content Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into page content",
+            "uploaded_to_this_item": "Uploaded to this page content",
+            "filter_items_list": "Filter page contents list",
+            "filter_by_date": "Filter page contents by date",
+            "items_list_navigation": "Page Contents list navigation",
+            "items_list": "Page Contents list",
+            "item_published": "Page Content published.",
+            "item_published_privately": "Page Content published privately.",
+            "item_reverted_to_draft": "Page Content reverted to draft.",
+            "item_scheduled": "Page Content scheduled.",
+            "item_updated": "Page Content updated.",
+            "item_link": "Page Content Link",
+            "item_link_description": "A link to a page content."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-welcome-write-blog"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aaa1883aa86",
+        "title": "Partners",
+        "menu_order": 7,
+        "active": true,
+        "post_type": "partner",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Partners",
+            "singular_name": "Partner",
+            "menu_name": "Partners",
+            "all_items": "All Partners",
+            "edit_item": "Edit Partner",
+            "view_item": "View Partner",
+            "view_items": "View Partners",
+            "add_new_item": "Add New Partner",
+            "add_new": "Add New Partner",
+            "new_item": "New Partner",
+            "parent_item_colon": "Parent Partner:",
+            "search_items": "Search Partners",
+            "not_found": "No partners found",
+            "not_found_in_trash": "No partners found in Trash",
+            "archives": "Partner Archives",
+            "attributes": "Partner Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into partner",
+            "uploaded_to_this_item": "Uploaded to this partner",
+            "filter_items_list": "Filter partners list",
+            "filter_by_date": "Filter partners by date",
+            "items_list_navigation": "Partners list navigation",
+            "items_list": "Partners list",
+            "item_published": "Partner published.",
+            "item_published_privately": "Partner published privately.",
+            "item_reverted_to_draft": "Partner reverted to draft.",
+            "item_scheduled": "Partner scheduled.",
+            "item_updated": "Partner updated.",
+            "item_link": "Partner Link",
+            "item_link_description": "A link to a partner."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": 0,
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-networking"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "Partner Fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67aaa7c2b5e32",
+        "title": "Talks",
+        "menu_order": 8,
+        "active": true,
+        "post_type": "talk",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Talks",
+            "singular_name": "Talk",
+            "menu_name": "Talks",
+            "all_items": "All Talks",
+            "edit_item": "Edit Talk",
+            "view_item": "View Talk",
+            "view_items": "View Talks",
+            "add_new_item": "Add New Talk",
+            "add_new": "Add New Talk",
+            "new_item": "New Talk",
+            "parent_item_colon": "Parent Talk:",
+            "search_items": "Search Talks",
+            "not_found": "No talks found",
+            "not_found_in_trash": "No talks found in Trash",
+            "archives": "Talk Archives",
+            "attributes": "Talk Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into talk",
+            "uploaded_to_this_item": "Uploaded to this talk",
+            "filter_items_list": "Filter talks list",
+            "filter_by_date": "Filter talks by date",
+            "items_list_navigation": "Talks list navigation",
+            "items_list": "Talks list",
+            "item_published": "Talk published.",
+            "item_published_privately": "Talk published privately.",
+            "item_reverted_to_draft": "Talk reverted to draft.",
+            "item_scheduled": "Talk scheduled.",
+            "item_updated": "Talk updated.",
+            "item_link": "Talk Link",
+            "item_link_description": "A link to a talk."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": 0,
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-microphone"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67ec79b63a939",
+        "title": "Tickets",
+        "menu_order": 9,
+        "active": true,
+        "post_type": "ticket",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Tickets",
+            "singular_name": "Ticket",
+            "menu_name": "Tickets",
+            "all_items": "All Tickets",
+            "edit_item": "Edit Ticket",
+            "view_item": "View Ticket",
+            "view_items": "View Tickets",
+            "add_new_item": "Add New Ticket",
+            "add_new": "Add New Ticket",
+            "new_item": "New Ticket",
+            "parent_item_colon": "Parent Ticket:",
+            "search_items": "Search Tickets",
+            "not_found": "No tickets found",
+            "not_found_in_trash": "No tickets found in Trash",
+            "archives": "Ticket Archives",
+            "attributes": "Ticket Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into ticket",
+            "uploaded_to_this_item": "Uploaded to this ticket",
+            "filter_items_list": "Filter tickets list",
+            "filter_by_date": "Filter tickets by date",
+            "items_list_navigation": "Tickets list navigation",
+            "items_list": "Tickets list",
+            "item_published": "Ticket published.",
+            "item_published_privately": "Ticket published privately.",
+            "item_reverted_to_draft": "Ticket reverted to draft.",
+            "item_scheduled": "Ticket scheduled.",
+            "item_updated": "Ticket updated.",
+            "item_link": "Ticket Link",
+            "item_link_description": "A link to a ticket."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-tickets-alt"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_67d4caf92820c",
+        "title": "Venues",
+        "menu_order": 10,
+        "active": true,
+        "post_type": "venue",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Venues",
+            "singular_name": "Venue",
+            "menu_name": "Venues",
+            "all_items": "All Venues",
+            "edit_item": "Edit Venue",
+            "view_item": "View Venue",
+            "view_items": "View Venues",
+            "add_new_item": "Add New Venue",
+            "add_new": "Add New Venue",
+            "new_item": "New Venue",
+            "parent_item_colon": "Parent Venue:",
+            "search_items": "Search Venues",
+            "not_found": "No venues found",
+            "not_found_in_trash": "No venues found in Trash",
+            "archives": "Venue Archives",
+            "attributes": "Venue Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into venue",
+            "uploaded_to_this_item": "Uploaded to this venue",
+            "filter_items_list": "Filter venues list",
+            "filter_by_date": "Filter venues by date",
+            "items_list_navigation": "Venues list navigation",
+            "items_list": "Venues list",
+            "item_published": "Venue published.",
+            "item_published_privately": "Venue published privately.",
+            "item_reverted_to_draft": "Venue reverted to draft.",
+            "item_scheduled": "Venue scheduled.",
+            "item_updated": "Venue updated.",
+            "item_link": "Venue Link",
+            "item_link_description": "A link to a venue."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": true,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-admin-site"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "page-attributes",
+            "custom-fields"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "ui_options_page_67ea1ddb62f1e",
+        "title": "Website Settings",
+        "active": true,
+        "menu_order": 0,
+        "page_title": "Website Settings",
+        "menu_slug": "website-settings",
+        "parent_slug": "none",
+        "advanced_configuration": 1,
+        "icon_url": "",
+        "menu_title": "Website Settings",
+        "position": 4,
+        "redirect": 0,
+        "description": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-admin-generic"
+        },
+        "update_button": "Update",
+        "updated_message": "Options Updated",
+        "capability": "edit_posts",
+        "data_storage": "options",
+        "post_id": "",
+        "autoload": 0
+    }
+]

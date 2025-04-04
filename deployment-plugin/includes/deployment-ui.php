@@ -106,6 +106,19 @@ function s3_deployment_page_callback()
         echo "<div class='updated'><p>Ticket JSON data printed to console. Open DevTools → Console.</p></div>";
     }
 
+    // Process the Get Food JSON form submission.
+    if (isset($_POST['get_food_json']) && check_admin_referer('get_food_json_action', 'get_food_json_nonce')) {
+        $upload_dir = wp_upload_dir();
+        $target_dir = $upload_dir['basedir'] . '/shared_data/staging/';
+        $json_content = generate_food_data_json_file($target_dir);
+
+        echo '<script>';
+        echo 'console.log("Food JSON:", ' . $json_content . ');';
+        echo '</script>';
+
+        echo "<div class='updated'><p>Food JSON data printed to console. Open DevTools → Console.</p></div>";
+    }
+
     // (Optional) Retrieve production deployment info.
     $upload_dir = wp_upload_dir();
     $base_upload_path = $upload_dir['basedir'];
@@ -182,11 +195,51 @@ function s3_deployment_page_callback()
             </div>
         </div>
         <div class="deploy-form">
+            <div class="form-title">Generate Page Content JSON</div>
+            <form method="post" id="page-content-form">
+                <?php wp_nonce_field('generate_page_content_action', 'generate_page_content_nonce'); ?>
+                <input type="hidden" name="generate_page_content" value="1">
+                <?php submit_button('Generate Page Content', 'secondary deploy-btn', 'generate_page_content_btn'); ?>
+            </form>
+        </div>
+        <div class="deploy-form">
+            <div class="form-title">Get Website Options JSON</div>
+            <form method="post">
+                <?php wp_nonce_field('get_website_options_action', 'get_website_options_nonce'); ?>
+                <input type="hidden" name="get_website_options" value="1">
+                <?php submit_button('Get Website Options', 'secondary deploy-btn'); ?>
+            </form>
+        </div>
+        <div class="deploy-form">
+            <div class="form-title">Get Venue JSON</div>
+            <form method="post">
+                <?php wp_nonce_field('get_venue_json_action', 'get_venue_json_nonce'); ?>
+                <input type="hidden" name="get_venue_json" value="1">
+                <?php submit_button('Get Venue JSON', 'secondary deploy-btn'); ?>
+            </form>
+        </div>
+        <div class="deploy-form">
+            <div class="form-title">Get News JSON</div>
+            <form method="post">
+                <?php wp_nonce_field('get_news_json_action', 'get_news_json_nonce'); ?>
+                <input type="hidden" name="get_news_json" value="1">
+                <?php submit_button('Get News JSON', 'secondary deploy-btn'); ?>
+            </form>
+        </div>
+        <div class="deploy-form">
             <div class="form-title">Get Ticket JSON</div>
             <form method="post">
                 <?php wp_nonce_field('get_ticket_json_action', 'get_ticket_json_nonce'); ?>
                 <input type="hidden" name="get_ticket_json" value="1">
                 <?php submit_button('Get Ticket JSON', 'secondary deploy-btn'); ?>
+            </form>
+        </div>
+        <div class="deploy-form">
+            <div class="form-title">Get Food JSON</div>
+            <form method="post">
+                <?php wp_nonce_field('get_food_json_action', 'get_food_json_nonce'); ?>
+                <input type="hidden" name="get_food_json" value="1">
+                <?php submit_button('Get Food JSON', 'secondary deploy-btn'); ?>
             </form>
         </div>
     </div>
