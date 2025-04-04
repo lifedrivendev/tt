@@ -30,11 +30,13 @@ function generate_ticket_data_json_file($dir)
         while ($query->have_posts()) {
             $query->the_post();
             $post_id = get_the_ID();
+            $post_date = get_post_datetime();
             $acf_fields = function_exists('get_fields') ? get_fields($post_id) : array();
 
             $data[] = array_merge(
                 array(
                     'id' => $post_id,
+                    'date' => $post_date->format('Y-m-d H:i:s'),
                     'name' => get_the_title(),
                 ),
                 $acf_fields

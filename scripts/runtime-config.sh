@@ -78,6 +78,8 @@ wp plugin install classic-editor post-types-order --activate --allow-root
 # Custom plugins
 wp plugin activate deployment-plugin --allow-root
 wp plugin activate custom-event-id-plugin --allow-root
+wp plugin activate custom-file-upload-plugin --allow-root
+
 
 # Fix file permissions for non-upload directories
 echo "Fixing file permissions for non-uploads directories..."

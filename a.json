@@ -1,0 +1,2156 @@
+[
+    {
+        "id": 263,
+        "date": "2025-04-01 23:50:28",
+        "slug_box": {
+            "en": "",
+            "fi": ""
+        },
+        "title_box": {
+            "en": "",
+            "fi": ""
+        },
+        "description_box": {
+            "en": "",
+            "fi": ""
+        },
+        "image_box": {
+            "portrait": [],
+            "landscape": []
+        },
+        "embedded_box": {
+            "spotify": "",
+            "youtube": ""
+        },
+        "social_box": false,
+        "event": [
+            {
+                "date": "2025-08-10",
+                "time": "",
+                "duration": "",
+                "venue": 195,
+                "event_id": "212363ec-8303-4bfb-8b35-15e276d962e5"
+            }
+        ],
+        "visibility_box": {
+            "main_page": false,
+            "schedule_page": false
+        }
+    },
+    {
+        "id": 153,
+        "date": "2025-03-10 06:05:31",
+        "slug_box": {
+            "en": "charli-xcx",
+            "fi": "charli-xcx"
+        },
+        "title_box": {
+            "en": "Charli XCX",
+            "fi": "Charli XCX"
+        },
+        "description_box": {
+            "en": "<p><strong>Charli XCX</strong> is one of the defining pop phenomena of 2024. Her sixth studio album, <em>BRAT</em>, was both a critical and commercial triumph, topping charts worldwide and solidifying her status as a global superstar. The record’s standout tracks, including <em>Apple</em> and the anthemic <em>360</em>, celebrated as one of the year’s best pop songs, cemented her place in contemporary music. Charli’s ability to blend avant-pop, electronic dance music, and mainstream appeal sets her apart as one of the boldest and most distinctive artists today.</p><br><p>BRAT became a cultural phenomenon – few artists have branded a single word and color as effectively as Charli, making &#8220;brat&#8221; and lime green instantly recognizable symbols of her identity. Her surprise PARTYGIRL DJ sets and collaborations with artists like Lorde and Addison Rae kept her at the center of the cultural conversation. Charli also grabbed an impressive seven Grammy nominations for the upcoming 2025 awards.</p><br><p>Charli XCX’s fearless creativity and genre-defying artistry continue to shape the future of pop music and culture.</p><br>",
+            "fi": "<p><strong>Charli XCX</strong> on vuoden 2024 suurimpia popmusiikin ilmiöitä. Hänen kuudes studioalbuminsa <em>BRAT</em> sai ylistystä niin kriitikoilta kuin faneilta, nousten listaykköseksi ympäri maailmaa ja tehden Charlista globaalin supertähden. Albumin hittikappaleet, kuten <em>Apple</em> sekä <em>360</em>, jota pidetään yhtenä vuoden parhaista popkappaleista, vahvistivat hänen asemaansa musiikkimaailmassa. Charlin innovatiivinen tapa yhdistää avant-pop, elektroninen tanssimusiikki ja mainstream tekee hänestä yhden tämän hetken rohkeimmista ja omaleimaisimmista taiteilijoista.</p><br><p>BRAT-albumi nousi valtavaksi kulttuuriseksi ilmiöksi – harva artisti on onnistunut yhdistämään yhden sanan ja värin yhtä voimakkaasti brändiinsä kuin Charli, joka teki sanasta &#8220;brat&#8221; ja limenvihreästä väristä tunnistettavia symboleja. Hänen yllätykselliset PARTYGIRL-DJ-keikkansa ja yhteistyöt muun muassa Lorden ja Addison Raen kanssa, ovat nostaneet hänen nimensä otsikoihin. Charli onnistui lisäksi kahmimaan vaikuttavat seitsemän Grammy-ehdokkuutta tulevaan palkintogaalaan.</p><br><p>Charlin tinkimätön tyyli ja innovatiivisuus tekevät hänestä popmusiikin suunnannäyttäjän, joka jatkaa taiteellisten ja kulttuuristen rajojen rikkomista.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_charlixcx.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-300x300.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-960x1200.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_charlixcx-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_charlixcx.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-300x300.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-1200x674.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_charlixcx.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/0Do1AZJJ03M0g8MmzUXLYf?si=52c5efac6dcd4d2d",
+            "youtube": "WJW-VvmRKsE"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/charli_xcx",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.charlixcx.com/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@officialcharlixcx",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": "2025-08-10",
+                "time": "",
+                "duration": "",
+                "venue": 178,
+                "event_id": "11ccd82b-6691-48b7-9f9e-8ba60c093547"
+            },
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": "16f3f6ee-728e-43cd-9f07-4e8885cade50"
+            },
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": "d8ac3153-3178-4e97-8eed-7da4a0de2234"
+            }
+        ],
+        "visibility_box": {
+            "main_page": false,
+            "schedule_page": false
+        }
+    },
+    {
+        "id": 152,
+        "date": "2025-03-10 06:03:12",
+        "slug_box": {
+            "en": "khruangbin",
+            "fi": "khruangbin"
+        },
+        "title_box": {
+            "en": "Khruangbin",
+            "fi": "Khruangbin"
+        },
+        "description_box": {
+            "en": "<p><strong>Khruangbin</strong> has earned its place as one of the most popular instrumental bands in the world today. The Texas-based trio – <strong>Laura Lee Ochoa</strong>, <strong>Mark Speer</strong>, and <strong>Donald &#8220;DJ&#8221; Johnson Jr.</strong> – creates music that blends diverse influences from the rich traditions of various cultures. Their sound draws from Thai funk, Jamaican dub, Iranian rock, Latin American rhythms, and American soul and funk, enriched by elements of psychedelic rock and cinematic tones. Subtle hints of hip-hop further add modern rhythm and depth to Khruangbin’s unique sonic identity.</p><br><p>The band’s albums, including <em>The Universe Smiles Upon You</em>, <em>Con Todo El Mundo</em>, and <em>Mordechai</em>, have received widespread international acclaim and critical praise. A Grammy nomination in 2024 for Best New Artist brought Khruangbin into mainstream recognition. Collaborations such as the soul-inspired <em>Texas Sun</em> and <em>Texas Moon</em> EPs with vocalist Leon Bridges further showcase their ability to transcend musical boundaries seamlessly.</p><br><p>Khruangbin’s live performances are a masterclass in bringing their music to life. Energetic and meticulously crafted shows, such as their acclaimed concert at the Sydney Opera House in 2022, highlight the band’s distinctive sound at its very best.</p><br>",
+            "fi": "<p><strong>Khruangbin</strong> on ansainnut paikkansa yhtenä maailman tämän hetken suosituimmista instrumentaalimusiikin yhtyeistä. Teksasista lähtöisin oleva trio – <strong>Laura Lee Ochoa</strong>, <strong>Mark Speer</strong> ja <strong>Donald &#8220;DJ&#8221; Johnson Jr.</strong> – luo musiikkia, jossa yhdistyvät monipuoliset vaikutteet eri kulttuurien rikkaista perinteistä. Yhtye ammentaa musiikkiinsa muun muassa thaimaalaisesta funkista, jamaikalaisesta dubista, iranilaisesta rockista, latinalaisamerikkalaisista rytmeistä sekä amerikkalaisesta soulista ja funkista, unohtamatta psykedeelisen rockin ja elokuvamusiikin sävyjä. Lisäksi hiphopin hienovaraiset viittaukset lisäävät modernia rytmiikkaa ja syvyyttä Khruangbinin sointiin.</p><br><p>Yhtyeen albumit, kuten <em>The Universe Smiles Upon You</em>, <em>Con Todo El Mundo</em> ja <em>Mordechai</em>, ovat keränneet laajaa kansainvälistä huomiota ja kriitikoiden ylistystä. Grammy-ehdokkuus vuonna 2024 Best New Artist -kategoriassa nosti Khruangbinin myös valtavirran tietoisuuteen. Yhteistyöt, kuten soul-laulaja Leon Bridgesin kanssa tehdyt <em>Texas Sun</em> ja <em>Texas Moon</em>, osoittavat heidän kykynsä liikkua vaivattomasti musiikillisten rajojen yli.</p><br><p>Khruangbinin live-esiintymiset ovat taidonnäyte yhtyeen kyvystä herättää musiikkinsa eloon. Energiset ja tarkkaan rakennetut keikat, kuten heidän ylistetty konserttinsa Sydneyn oopperatalolla vuonna 2022, tuovat heidän omaleimaisen soundinsa parhaiten esille.</p><br>"
+        },
+        "image_box": {
+            "portrait": [],
+            "landscape": []
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC?si=3c5f4034d5524f0a",
+            "youtube": "csILUDfmtqM"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/khruangbin/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/khruangbin",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://twitter.com/khruangbin",
+                        "type": "x"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/c/khruangbin",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": 177,
+                "event_id": ""
+            }
+        ],
+        "visibility_box": {
+            "main_page": false,
+            "schedule_page": false
+        }
+    },
+    {
+        "id": 137,
+        "date": "2025-03-10 05:03:44",
+        "slug_box": {
+            "en": "fontaines-d-c",
+            "fi": "fontaines-d-c"
+        },
+        "title_box": {
+            "en": "Fontaines D.C.",
+            "fi": "Fontaines D.C."
+        },
+        "description_box": {
+            "en": "<p><strong>Fontaines D.C.</strong> has rapidly become one of the most significant new names in indie rock and post-punk. Originally from Dublin and now based in London, the band released their fourth album, <em>ROMANCE</em>, in August 2024 to record-breaking success and critical acclaim. The album sold over twice as many copies during its release week as their 2022 hit album <em>Skinty Fia</em> and earned five-star reviews from outlets such as Rolling Stone UK and NME. Even Elton John declared the band “the very best right now.”</p><br><p>Fontaines D.C.’s achievements go beyond chart success. Their debut album, <em>Dogrel</em> (2019), was shortlisted for the prestigious Mercury Prize, while their sophomore effort, <em>A Hero’s Death</em> (2020), earned their first Grammy nomination for &#8220;Best Rock Album.&#8221; The third album, Skinty Fia, cemented their status internationally, winning the Brit Award for &#8220;Best International Group.&#8221; Most recently, ROMANCE claimed the &#8220;Album of the Year&#8221; award at the Rolling Stone UK Awards and secured two Grammy nominations for the 2025 ceremony.</p><br><p>Fontaines D.C.’s music blends post-punk, grunge, shoegaze, and contemporary electronic soundscapes. Produced by Simian Mobile Disco&#8217;s James Ford, ROMANCE explores themes of love, alienation, and identity.</p><br><p>In August 2025, alongside their performance at Flow Festival, Fontaines D.C. will play the biggest shows of their career: a 45,000-capacity concert at London’s Finsbury Park and a 26,000-capacity show at Manchester’s Wythenshawe Park. This band shows no signs of slowing down – they continue to push boundaries and define the future of rock music.</p><br>",
+            "fi": "<p><strong>Fontaines D.C.</strong> on muutamassa vuodessa noussut yhdeksi indie rockin ja post-punkin merkittävimmistä uusista nimistä. Dublinin rock-ylpeys, nykyisin Lontoossa vaikuttava yhtye, julkaisi elokuussa 2024 neljännen albuminsa <em>ROMANCE</em>, joka rikkoi ennätyksiä ja sai kriitikoiden suitsutusta. Levy myi julkaisuviikollaan yli kaksinkertaisesti vuoden 2022 hittialbumiin <em>Skinty Fia</em> verrattuna ja sai muun muassa Rolling Stone UK:n ja NME:n viiden tähden arvion. Myös itse Elton John julisti yhtyeen olevan “parhaista parhain juuri nyt.”</p><br><p>Fontaines D.C.:n saavutukset eivät rajoitu vain listamenestykseen. Bändin debyyttialbumi <em>Dogrel</em> (2019) oli ehdolla arvostetun Mercury Prize -palkinnon saajaksi, ja toinen albumi <em>A Hero’s Death</em> (2020) toi heille ensimmäisen Grammy-ehdokkuuden kategoriassa &#8220;Paras rock-albumi&#8221;. Kolmas levy, Skinty Fia, nosti heidät kansainväliseksi nimeksi voittaen Brit Awardin &#8220;Paras kansainvälinen yhtye&#8221; -kategoriassa. Uusin albumi ROMANCE voitti Rolling Stone UK Awardsin &#8220;Vuoden albumi&#8221; -palkinnon ja toi bändille kaksi Grammy-ehdokkuutta vuoden 2025 gaalaan.</p><br><p>Fontaines D.C.:n musiikki sekoittaa postpunkia, grungea, shoegazea ja modernia elektronista soundia. Simian Mobile Discon James Fordin tuottama ROMANCE tutkii rakkauden, vieraantumisen ja identiteetin teemoja.</p><br><p>Elokuussa 2025 Fontaines D.C. soittaa Flow Festivalin lisäksi uransa suurimmat konsertit: Lontoon Finsbury Parkin 45 000 katsojan ja Manchesterin Wythenshawe Parkin 26 000 katsojan keikat. Tämä bändi ei lepää laakereillaan – he jatkavat rajojen rikkomista ja määrittävät rock-musiikin tulevaisuutta.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_fontainesdc.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_fontainesdc-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_fontainesdc.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_fontainesdc.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy?si=9827e0582971462f",
+            "youtube": "mMhks08v0EU"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://fontainesdc.com/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/fontainesband/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/fontainesband",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://twitter.com/fontainesdublin",
+                        "type": "x"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/4NGb9APd25UKvDlK3eVRzS",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/channel/UCVtO4Hc3qiKScQBad51RAIQ",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "date": "2025-03-10 05:54:44",
+        "slug_box": {
+            "en": "bicep-present-chroma-av-dj-set",
+            "fi": "bicep-present-chroma-av-dj-set"
+        },
+        "title_box": {
+            "en": "BICEP present CHROMA (AV DJ set)",
+            "fi": "BICEP present CHROMA (AV DJ set)"
+        },
+        "description_box": {
+            "en": "<p><strong>Bicep</strong> is the duo of Belfast-born childhood friends <strong>Andrew Ferguson</strong> and <strong>Matthew McBriar</strong>, gaining loyal listeners with their melancholic, trance- and breakbeat-influcenced electronic music already for fifteen years. Their biggest hit, <em>Glue</em>, was released in 2017 on their praised debut album, and the following album <em>Isles</em> also got a very positive response in 2021.</p><br><p>Bicep started in 2008 as a blog presenting Italo disco, house, and disco rarities, but with the success of their music, the duo has since concentrated on performing in festivals such as Primavera, Coachella and Glastonbury. Recently Bicep has been working on their multidisciplinary project <strong>CHROMA</strong>, a record label, event series and evolving live audiovisual show.</p><br>",
+            "fi": "<p><strong>Bicep</strong> on Belfastissa kasvaneiden lapsuudenystävien <strong>Andrew Fergusonin</strong> ja <strong>Matthew McBriarin</strong> duo, joka on viidentoista vuoden ajan kerännyt uskollista kuulijakuntaa melankolisella, trance- ja breakbeat-vaikutteisella elektronisella musiikilla.</p><br><p>Kaksikon suurin hitti <em>Glue</em> ilmestyi vuonna 2017 heidän kehutulla esikoisalbumillaan, ja myös kakkoslevy <em>Isles</em> sai kiittävän vastaanoton. Bicepin tarina alkoi vuonna 2008 blogilla, jossa Ferguson ja McBriar esittelivät löytöjään italo discon, housen ja discon alueilta, mutta oman musiikin menestyksen myötä he ovat keskittyneet soittamaan Primaveran, Coachellan ja Glastonburyn kaltaisilla festivaaleilla.</p><br><p>Viime aikoina Bicepin toiminnan keskiössä on ollut monitaiteellinen <strong>CHROMA</strong>-projekti, jonka alla kaksikko julkaisee musiikkia ja tekee audiovisuaalisia livekeikkoja.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_bicep-1.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1-300x300.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1-960x1200.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bicep-1-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_bicep-1.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1-300x300.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1-1200x674.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bicep-1.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/4XBr84nB1hptmXDv7QW6m3?si=9a5634904a7045e1",
+            "youtube": "w2oGFEsaG5c"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "http://www.feelmybicep.com/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/feelmybicep",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/feelmybicep",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://x.com/feelmybicep",
+                        "type": "x"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga?si=09u30o3NRIC36ItGu588Fw",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/feelmybicep",
+                        "type": "youtube"
+                    },
+                    {
+                        "url": "https://soundcloud.com/feelmybicep",
+                        "type": "soundcloud"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ],
+        "visibility_box": {
+            "main_page": false,
+            "schedule_page": false
+        }
+    },
+    {
+        "id": 140,
+        "date": "2025-03-10 05:05:36",
+        "slug_box": {
+            "en": "beth-gibbons",
+            "fi": "beth-gibbons"
+        },
+        "title_box": {
+            "en": "Beth Gibbons",
+            "fi": "Beth Gibbons"
+        },
+        "description_box": {
+            "en": "<p><strong>Beth Gibbons</strong> is a British singer and songwriter, best known as the iconic frontwoman of Portishead. Her intense delivery and unique voice have been instrumental in shaping the trip-hop genre. Portishead’s debut album <em>Dummy</em> (1994) and its follow-up <em>Portishead</em> (1997), together with Massive Attack’s work, defined the signature sound and expression of 1990s trip-hop. These albums not only helped establish the genre but also expanded the possibilities of alternative music, blending jazz, hip-hop, and electronic elements in an unparalleled way. Tracks such as <em>Glory Box</em>, <em>Sour Times</em>, and <em>All Mine</em> remain lasting testaments to their influence on 1990s music culture and beyond.</p><br><p>In May 2024, Gibbons released her first-ever solo album, <em>Lives Outgrown</em>, her first new music since Portishead’s <em>Third</em> (2008). Lives Outgrown explores themes such as aging, menopause, motherhood, and mortality, offering an intimate glimpse into Gibbons’s personal experiences. Musically, the album combines elements of folk and chamber pop with acoustic guitars, strings, and experimental production techniques. For instance, in <em>Tell Me Who You Are Today</em>, producer James Ford creates a striking soundscape by playing piano strings with metal spoons.</p><br><p>Critics have praised the album for its honesty and beauty. In its five-star review, The Guardian described it as “an album that stops time and demands the listener’s full attention.” Lives Outgrown is a poignant reminder of why Beth Gibbons remains one of modern music’s most compelling voices.</p><br>",
+            "fi": "<p><strong>Beth Gibbons</strong> on brittiläinen laulaja ja lauluntekijä, joka tunnetaan parhaiten <strong>Portishead</strong>-yhtyeen ikonisena keulahahmona. Hänen intensiivinen ilmaisunsa ja ainutlaatuinen äänensä ovat olleet keskeisiä triphop-genren kehityksessä. Portisheadin debyyttialbumi <em>Dummy</em> (1994) ja sitä seurannut <em>Portishead</em> (1997) yhdessä Massive Attackin tuotannon kanssa määrittelivät 1990-luvun triphopin tunnusomaisen äänen ja ilmaisun. Nämä albumit eivät vain muovanneet genreä vaan myös laajensivat vaihtoehtomusiikin ilmaisumahdollisuuksia, yhdistäen jazzin, hiphopin ja elektronisen musiikin uniikilla tavalla. Kappaleet kuten <em>Glory Box</em>, <em>Sour Times</em> ja <em>All Mine</em> ovat esimerkkejä teoksista, jotka ovat jättäneet lähtemättömän jäljen 1990-luvun musiikkikulttuuriin ja sen ulkopuolelle.</p><br><p>Gibbons julkaisi ensimmäisen sooloalbuminsa <em>Lives Outgrown</em> toukokuussa 2024, ja levy on myös hänen ensimmäinen uusi julkaisunsa sitten Portisheadin <em>Third</em>-levyn (2008). Lives Outgrown käsittelee teemoja kuten ikääntyminen, vaihdevuodet, äitiys ja kuolevaisuus, tarjoten intiimin katsauksen Gibbonsin henkilökohtaisiin kokemuksiin. Musiikillisesti levy yhdistää folkia ja kamaripopin elementtejä akustisten kitaroiden, jousien ja kokeellisten tuotantoratkaisujen kautta. Esimerkiksi kappaleessa <em>Tell Me Who You Are Today</em> tuottaja James Ford soittaa pianon kieliä metallilusikoilla.</p><br><p>Kriitikot ovat ylistäneet albumia sen rehellisyydestä ja kauneudesta. The Guardian kuvaili sitä viiden tähden arviossaan &#8220;levyksi, joka pysäyttää ajan ja vaatii kuuntelijan täydellisen huomion&#8221;. Lives Outgrown muistuttaa, miksi Beth Gibbons on yksi modernin musiikin vaikuttavimmista tulkitsijoista.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_bethgibbons.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_bethgibbons-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_bethgibbons.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_bethgibbons.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/5oBcWBVBoGlTacocqeNjkc?si=9aa0b95097a84b29",
+            "youtube": "ldrx0eSqV-E"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://bethgibbons.net/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/officialbethgibbons/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/bethgibbonsmusic",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://twitter.com/bethgibbons",
+                        "type": "x"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/4f3U8qzH5Y8K2t0RSaQhC6",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@officialbethgibbons",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "date": "2025-03-10 05:00:33",
+        "slug_box": {
+            "en": "veronica-maggio",
+            "fi": "veronica-maggio"
+        },
+        "title_box": {
+            "en": "Veronica Maggio",
+            "fi": "Veronica Maggio"
+        },
+        "description_box": {
+            "en": "<p><strong>Veronica Maggio</strong>, one of Sweden&#8217;s brightest stars, is a modern voice of pop music whose distinctive melodies and heartfelt lyrics have captivated not just Sweden but the rest of the Nordic countries. Her music seamlessly blends timeless pop sensibilities with reflections on life’s big and small moments: love, loss, hope, and the exuberance of youth.</p><br><p>Over her long career, Maggio has won multiple Grammis awards and amassed hundreds of millions of streams with her hits. She broke into the mainstream in the mid-2000s, and her breakthrough single <em>Måndagsbarn</em> and the iconic <em>Jag kommer</em> have become part of Sweden’s cultural soundtrack. Her ability to pair simple, catchy compositions with profound, relatable stories makes her music timeless.</p><br><p>Maggio is also celebrated for her compelling live performances, where her charismatic stage presence and energy bring her songs to life, resonating with audiences across generations. Her style is approachable yet carries a touch of Nordic melancholy and mystique—qualities that have established her as one of the defining voices of her generation in Sweden.</p><br>",
+            "fi": "<p>Ruotsin kirkkaimpiin tähtiin lukeutuva <strong>Veronica Maggio</strong> on popmusiikin moderni ääni, jonka tunnistettavat melodiat ja sydämelliset sanoitukset ovat valloittaneet Ruotsin lisäksi muut Pohjoismaat. Hänen musiikissaan yhdistyvät ajatonta pop-sensibiliteettiä ja arjen oivalluksia, jotka käsittelevät elämän suuria ja pieniä käänteitä: rakkautta, menetystä, toivoa ja nuoruuden huumaa.</p><br><p>Pitkän uransa aikana Maggio on voittanut lukuisia Grammis-palkintoja ja saavuttanut hiteillään jopa satoja miljoonia striimauksia. Valtavirtaan hän nousi 2000-luvun puolivälissä, ja hänen läpimurtohittinsä <em>Måndagsbarn</em> ja myöhemmin ikoninen <em>Jag kommer</em> ovat muodostuneet osaksi Ruotsin kollektiivista muistia. Maggion taito yhdistää yksinkertaisia ja tarttuvia sävellyksiä syvällisiin ja samastuttaviin tarinoihin tekee hänen musiikistaan ajatonta.</p><br><p>Veronica Maggio tunnetaan myös vaikuttavista live-esiintymisistään, joissa hänen karismaattinen lavapreesensinsä ja energiansa tuovat kappaleet eloon tavalla, joka puhuttelee yleisöä sukupolvesta toiseen. Hänen tyylinsä on helposti lähestyttävää, mutta siinä on aina ripaus pohjoismaista melankoliaa ja mystiikkaa – ominaisuus, joka on tehnyt hänestä yhden sukupolvensa äänistä Ruotsissa.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_veronicamag.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_veronicamag-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_veronicamag.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_veronicamag.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU?si=fc27c865572e4d47",
+            "youtube": "VjZwz3yxS9I"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/veronicamaggio/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/veronicamaggio",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/1fAS30t4rNRO4Nwh0TzUl4",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@VeronicaMaggio",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "date": "2025-03-10 04:58:14",
+        "slug_box": {
+            "en": "autechre",
+            "fi": "autechre"
+        },
+        "title_box": {
+            "en": "Autechre",
+            "fi": "Autechre"
+        },
+        "description_box": {
+            "en": "<p><strong>Autechre</strong> has been one of the most important names in experimental electronic music already for three decades. The Manchester-based duo released their debut album on the iconic label Warp Records in 1993, and their discography includes more than 20 albums and several EP’s.</p><br><p>Their ever-developing sound is based on IDM, techno, and experimental electro, but taking influences in several genres like musique concrète. Autechre plays all around the world in both electronic music festivals and concert venues, and often in complete darkness. Recently, the duo has told they might not make studio albums anymore but rather concentrate on playing live concerts and releasing them on record.</p><br>",
+            "fi": "<p><strong>Autechre</strong> on kuulunut kokeellisen elektronisen musiikin merkittävimpiin nimiin jo kolmen vuosikymmenen ajan. Manchesterilaisduo julkaisi esikoisalbuminsa ikonisella Warp Recordsilla vuonna 1993, ja heidän diskografiansa käsittää tällä hetkellä yli 20 albumia sekä lukuisia EP:itä.<br /><br>Kaksikon jatkuvasti muuttuvassa musiikissa voi kuulla vaikutteita niin IDM:stä ja teknosta kuin kokeellisesta electrosta ja konkreettisesta musiikistakin.</p><br><p>Autechre keikkailee ympäri maailmaa yhtä lailla konserttitaloissa kuin elektronisen musiikin tapahtumissa, ja usein duo soittaa täydellisessä pimeydessä. Hiljattain kaksikko on kertonut keskittyvänsä kokonaan keikkailuun, mutta livenä pyrkimys on soittaa niin hyvin, että keikkoja voidaan julkaista levyllä.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_autechre.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_autechre-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_autechre.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_autechre.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/0uqSV2Q6vvlxhqd1Go0tMh?si=1712c6ba9766456b",
+            "youtube": "qkTJTf7Yvk8"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.autechre.ws/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.facebook.com/profile.php?id=100050289977551",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO?si=btulf-ATTU-p2s0RFrtT2w",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/channel/UCBUAlfIrcw1f0c4qGrYn3xA",
+                        "type": "youtube"
+                    },
+                    {
+                        "url": "https://soundcloud.com/autechreofficial",
+                        "type": "soundcloud"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "date": "2025-03-10 03:50:33",
+        "slug_box": {
+            "en": "kneecap",
+            "fi": "kneecap"
+        },
+        "title_box": {
+            "en": "KNEECAP",
+            "fi": "KNEECAP"
+        },
+        "description_box": {
+            "en": "<p><strong>KNEECAP</strong>, a group that has risen from Belfast to become a global sensation, boldly merges Irish culture, language, and the raw energy of rap. The trio – <strong>Móglaí Bap</strong>, <strong>Mo Chara</strong>, and <strong>DJ Próvaí</strong> – pushes boundaries and provokes with their music, and their intelligent debut album, <em>Fine Art</em> (2024), cemented their place at the forefront of Ireland’s rebellious hip-hop scene. Produced by Toddla T, the album takes listeners on a raucous night out in the fictional The Rutz pub, featuring guest appearances by Radie Peat of Lankum and Grian Chatten and Tom Coll of Fontaines D.C.</p><br><p>KNEECAP doesn’t stop at music – they dominate the silver screen as well. Their self-titled autobiographical film, Kneecap, in which the band stars as themselves alongside Michael Fassbender, won the Audience Award at Sundance and made history at the Galway Film Fleadh with an unprecedented three awards. It was also selected as Ireland&#8217;s official entry for the 2025 Oscars and has received widespread critical acclaim. Trainspotting author Irvine Welsh described it as “absolutely phenomenal,” and The Hollywood Reporter compared it to classics like 8 Mile and A Hard Day’s Night. KNEECAP proves that their revolutionary energy shines just as brightly on stage as it does on screen.</p><br>",
+            "fi": "<p>Belfastista pieneksi maailmanlaajuiseksi sensaatioksi noussut <strong>KNEECAP</strong> yhdistää rohkeasti irlantilaisen kulttuurin, kielen ja räpin energian. Trion – <strong>Móglaí Bapin</strong>, <strong>Mo Charan</strong> ja <strong>DJ Próvaín</strong> – musiikki rikkoo rajoja ja provosoi, ja heidän älykäs debyyttialbuminsa <em>Fine Art</em> (2024) nosti yhtyeen Irlannin kapinallisen hiphopin kärkeen. Toddla T:n tuottama albumi kuljettaa kuulijat riehakkaalle illalle kuvitteelliseen The Rutz -pubiin, jossa vierailevat muun muassa Lankun-yhtyeen Radie Peat sekä Fontaines DC:n Grian Chatten ja Tom Coll.</p><br><p>KNEECAP ei tyydy vain musiikkiin – he hallitsevat myös valkokankaat. Yhtyeen omaelämäkerrallinen elokuva Kneecap, jossa he esittävät itseään yhdessä Michael Fassbenderin kanssa, voitti Sundancen yleisöpalkinnon ja nappasi Galway Film Fleadhissa historiallisen kolmoisvoiton. Elokuva valittiin myös Irlannin viralliseksi ehdokkaaksi vuoden 2025 Oscareihin ja sai kriitikoilta laajaa ylistystä. Trainspotting-kirjailija Irvine Welsh kuvaili sitä &#8220;täysin häikäiseväksi&#8221;, ja The Hollywood Reporter vertasi sitä klassikoihin 8 Mile ja A Hard Day’s Night. KNEECAP osoittaa, että heidän vallankumouksellinen energiansa loistaa yhtä kirkkaasti lavalla kuin valkokankaallakin.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_kneecap.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_kneecap-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_kneecap.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_kneecap.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/1r6oq0Rzg47EvcfOL3rD3d?si=481e57717bcc4553",
+            "youtube": "3FXcxJ-JuVQ"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.kneecap.ie/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/kneecap32/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/Kneecap32/",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://twitter.com/Kneecap32",
+                        "type": "x"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/1ZVAC8d6a1zL0Zyj3X1wgd",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/channel/UCR8_tdf_kr2tn01dFmRK6wQ",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "date": "2025-03-10 03:47:06",
+        "slug_box": {
+            "en": "montell-fish",
+            "fi": "montell-fish"
+        },
+        "title_box": {
+            "en": "Montell Fish",
+            "fi": "Montell Fish"
+        },
+        "description_box": {
+            "en": "<p><strong>Montell Fish</strong>, born <strong>Montell Frazier</strong>, is a singer-songwriter from Pittsburgh whose soulful and intimate music has touched the hearts of millions. Fish began his career with gospel music in 2015 but soon transitioned into blending elements of R&amp;B and alternative pop. His breakthrough came with the 2022 debut album <em>JAMIE</em>, featuring tracks like <em>Talk 2 Me</em> and the standout hit <em>Fall in Love with You</em>, which has amassed over 430 million streams on Spotify.</p><br><p>Fish’s music often delves into themes of loneliness, heartbreak, and love, with deeply personal lyrics that resonate with listeners. His 2024 album <em>CHARLOTTE</em> expanded his sound, incorporating influences from legends like Prince and Jimi Hendrix. Montell Fish&#8217;s ability to combine genres and deliver poignant storytelling makes him a unique voice in contemporary music.</p><br>",
+            "fi": "<p><strong>Montell Fish</strong>, oikealta nimeltään <strong>Montell Frazier</strong>, on Pittsburghista kotoisin oleva laulaja-lauluntekijä, jonka intiimi ja sielukas musiikki on löytänyt tiensä miljoonien sydämiin. Fish aloitti uransa gospelmusiikilla vuonna 2015, mutta siirtyi pian yhdistämään R&amp;B:n ja vaihtoehtopopin elementtejä. Hänen läpimurtonsa tapahtui vuoden 2022 debyyttialbumilla <em>JAMIE</em>, josta kappaleet kuten <em>Talk 2 Me</em> ja erityisesti <em>Fall in Love with You</em> ovat keränneet valtavasti huomiota – jälkimmäinen yli 430 miljoonaa kuuntelua Spotifyssa.</p><br><p>Fishin musiikki käsittelee usein yksinäisyyden, surun ja rakkauden teemoja, ja hänen henkilökohtaiset lyriikkansa resonoi syvästi kuulijoiden kanssa. Vuoden 2024 albumi <em>CHARLOTTE</em> toi hänen tyyliinsä uusia ulottuvuuksia Prince- ja Jimi Hendrix -vaikutteineen.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_montellfish.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_montellfish-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_montellfish.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_montellfish.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE?si=0b20df293b7841c4",
+            "youtube": "pOhh8zZHJG4"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.montellfish.com/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/montellfish/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/MontellFish",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@MontellFishMusic",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "date": "2025-03-10 03:44:33",
+        "slug_box": {
+            "en": "joy-orbison",
+            "fi": "joy-orbison"
+        },
+        "title_box": {
+            "en": "Joy Orbison",
+            "fi": "Joy Orbison"
+        },
+        "description_box": {
+            "en": "<p><strong>Joy Orbison</strong> is a British DJ-producer whose music has influences from different styles such as dubstep, UK garage, house and oldschool jungle. His career took off with his debut single <em>Hyph Mngo</em> in 2009, and already for fifteen years Joy Orbison has been a topical artist both as a DJ and producer releasing club bangers frequently. His track <em>Flight FM</em>, out in January 2024, has been a hit as the original version and a mash-up called <em>Flex FM (Freddit)</em> made by Fred Again, where he mixed the track with Lil Yachty’s song Flex Up. In the last few years Joy Orbison has DJ’d frequently around the US and central Europe, and in 2025 he will perform in festivals as far as Mexico and Australia.</p><br>",
+            "fi": "<p><strong>Joy Orbison</strong> on brittiläinen DJ-tuottaja, jonka musiikissa voi kuulla vaikutteita yhtä lailla dubstepista ja UK garagesta kuin housesta ja junglestakin. Hänen uransa käynnistyi mainetta tuoneella <em>Hyph Mngo</em> -singlellä vuonna 2009, ja siitä lähtien Joy Orbison on pysynyt ajankohtaisen soundin tekijänä niin studiossa kuin DJ-keikoillakin. Hän on julkaissut klubihittejä lähes vuosittain, ja alkuvuodesta 2024 ilmestynyt biisi <em>Flight FM</em> on ollut menestys sekä alkuperäisversiona että Fred Againin tekemänä mash-upina <em>Flex FM (Freddit)</em>, jossa hän yhdisti biisiin Lil Yachtyn Flex Up -biisin raposuudet. Viime vuodet Joy Orbison on keikkaillut tiiviillä tahdilla ympäri Yhdysvaltoja ja Keski-Eurooppaa, ja vuonna 2025 kalenterissa on festivaalikeikkoja Meksikossa ja Australiassa asti.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_joyorbison.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_joyorbison-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_joyorbison.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_joyorbison.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN?si=809cf5e18973408d",
+            "youtube": "rsFDOGwkSv8"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://joy-orbison.com/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/joy_orbison_/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/JoyOrbisonLDN",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg?si=NwgktZrNQLuuPLSXf3UhBw",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@joy_orbison_",
+                        "type": "youtube"
+                    },
+                    {
+                        "url": "https://soundcloud.com/joy-orbison",
+                        "type": "soundcloud"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "date": "2025-03-10 03:42:09",
+        "slug_box": {
+            "en": "avalon-emerson",
+            "fi": "avalon-emerson"
+        },
+        "title_box": {
+            "en": "Avalon Emerson",
+            "fi": "Avalon Emerson"
+        },
+        "description_box": {
+            "en": "<p>American DJ-producer <strong>Avalon Emerson</strong> has already a ten-year career of exceptionally high-quality DJ performances and releases such as <em>The Frontier</em> (2016), a track picked by Resident Advisor to their Top 10 list of the decade. A long-time resident in Berghain and Panorama Bar, Emerson has also performed in festivals like Coachella, Sonar, Primavera and Dekmantel. With a background in techno, house and new wave, Emerson’s DJ sets often have percussion and melody as key elements, and they vary in sounds, tempos and genres. Recently Emerson has taken time for songwriting, and the debut album of her pop project <strong>&amp; The Charm</strong> was released in 2023. Her year 2025 includes performances in clubs and festivals globally, but also doing her own 9000 Dreams event series where she is the headliner and curates the other DJ’s.</p><br>",
+            "fi": "<p>Yhdysvaltalaislähtöinen DJ-tuottaja <strong>Avalon Emerson</strong> nousi kymmenkunta vuotta sitten maineeseen poikkeuksellisen laadukkailla keikoillaan sekä <em>The Frontier</em> -biisillä, jonka Resident Advisor valitsi 2010-luvun Top 10 -listalleen. Emerson on soittanut pitkään Berghainissa ja Panorama Barissa, mutta kiertänyt myös Coachellan, Sonarin, Primaveran ja Dekmantelin kaltaisia festivaaleja. Teknon, housen ja new waven parissa kasvanut DJ panostaa perkussioihin ja melodioihin, ja hänen settinsä ovat monipuolisia niin soundin, tempon kuin musiikkityylienkin puolesta. Viime vuosina Emerson on ottanut aikaa myös biisintekemiselle, ja hänen pop-projektinsa <strong>&amp; The Charmin</strong> esikoisalbumi ilmestyi vuonna 2023. Vuonna 2025 Emerson soittaa klubi- ja festivaalikeikkojen ohella 9000 Dreams -klubi-illoissa, joissa hän on pääesiintyjä ja valitsee vierailevat DJ:t.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_avalonemers.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_avalonemers-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_avalonemers.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_avalonemers.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/58B6uDFgToHIrJIwnCe8ST?si=1e7f9f1b0294440b",
+            "youtube": "r6Ve47lJ-PA"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://avalonemerson.com/",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/avalon9000/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/AvalonEmerson",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://x.com/avalon_emerson",
+                        "type": "x"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz?si=cu7oFNcyThCkEvAsxHJGRg",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@AvalonEmerson9000",
+                        "type": "youtube"
+                    },
+                    {
+                        "url": "https://soundcloud.com/avalonemerson",
+                        "type": "soundcloud"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "date": "2025-03-10 03:38:59",
+        "slug_box": {
+            "en": "sexmane",
+            "fi": "sexmane"
+        },
+        "title_box": {
+            "en": "Sexmane",
+            "fi": "Sexmane"
+        },
+        "description_box": {
+            "en": "<p><strong>Sexmane</strong>, whose real name is <strong>Max Sene</strong>, stands as one of Finland&#8217;s most successful and influential rap artists. Hailing from the small town of Siilinjärvi, he has earned acclaim for his raw, honest lyrics and electrifying stage presence, which have made his live performances a sensation. Released in November 2024, his concept album <em>Sanansaattaja</em> (&#8220;The Messenger&#8221;) reveals a more introspective and vulnerable side of the artist, exploring themes like mental health, religion, and cancel culture.</p><br><p>Sexmane has shattered Finnish Spotify records, at one point holding 18 songs on the country’s Top 50 chart simultaneously. His previous album, <em>Sextape II</em>, went double platinum and ranked as the fifth most-streamed album globally on Spotify the week it was released. His sold-out tour, which concluded in spring 2024 at Helsinki Ice Hall, received rave reviews from both fans and critics.</p><br><p>The new album’s singles, such as <em>Hulluus saa mut huutamaan</em>, <em>Riittämätön featuring Tomi Saario</em>, and the UMK finalist <em>Mania</em>, have already become major hits.</p><br>",
+            "fi": "<p><strong>Sexmane</strong>, oikealta nimeltään <strong>Max Sene</strong>, on yksi Suomen suosituimmista ja vaikutusvaltaisimmista räpartisteista. Siilinjärveltä kotoisin oleva artisti tunnetaan paitsi suorapuheisista sanoituksistaan myös vangitsevasta lavapreesensistään, joka on tehnyt hänen live-esiintymisistään ilmiöitä. Marraskuussa 2024 julkaistu konseptialbumi <em>Sanansaattaja</em> esittelee hänen syvällisemmän ja herkemmän puolensa. Albumilla käsitellään teemoja, kuten mielenterveys, uskonto ja cancel-kulttuuri.</p><br><p>Sexmane on tehnyt historiaa Suomen Spotifyssa: parhaimmillaan hänellä oli yhtä aikaa 18 kappaletta maamme Top 50 -listalla. Edellinen albumi, <em>Sextape II</em>, saavutti tuplaplatinaa ja nousi maailman viidenneksi kuunnelluimmaksi albumiksi julkaisunsa jälkeen. Hänen keväällä 2024 päättynyt loppuunmyyty kiertue huipentui Helsingin jäähalliin ja keräsi kiitosta niin yleisöltä kuin kriitikoilta.</p><br><p>Uusimmalta albumilta lohkaistut singlet, kuten <em>Hulluus saa mut huutamaan</em>, <em>Riittämätön (feat. Tomi Saario)</em> ja UMK-finaalipaikan saanut <em>Mania</em>, ovat jo vakiinnuttaneet paikkansa hittikappaleina.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_sexmane.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_sexmane-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_sexmane.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_sexmane.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/6y7v96AoJkyYtZjToxVXSd?si=155e489ad98c422a",
+            "youtube": "GsoIt6zfhBI"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/sexmane1000",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq?si=GidLU-6KQ76suF3wIAezOQ",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@sexmanevevo3770",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "date": "2025-03-10 03:17:13",
+        "slug_box": {
+            "en": "pehmoaino-satkynukkekoti",
+            "fi": "pehmoaino-satkynukkekoti"
+        },
+        "title_box": {
+            "en": "Pehmoaino: Sätkynukkekoti",
+            "fi": "Pehmoaino: Sätkynukkekoti"
+        },
+        "description_box": {
+            "en": "<p><strong>Pehmoaino</strong>’s music is a compelling blend of delicate folk-pop, modern indie, and the rhythmic nuances of hip-hop. Her songs are built on poetic lyrics and emotionally rich arrangements, balancing acoustic melodies with pulsating beats. Her 2024 double-platinum debut album captivated audiences by exploring universal themes—home, love, and loss—in ways that resonate across generations.</p><br><p>The sold-out <em>Sätkynukkekoti (kaikki tarinat 2020–2024)</em> concert series is an ambitious artistic journey into Pehmoaino’s personal story. Featuring acoustic reimaginings, a string section’s evocative depth, and carefully crafted visual elements, the concerts create a unique experience. The performance also includes unreleased tracks and demos, offering a rare glimpse into her creative process.</p><br><p>At Flow Festival, this extraordinary concert will be performed for the final time, marking it as one of the festival’s most anticipated highlights. Pehmoaino’s ability to seamlessly blend genres and evoke deep emotions has positioned her as a rising voice of her generation in Finnish music.</p><br>",
+            "fi": "<p><strong>Pehmoainon</strong> musiikki liikkuu folkpopin herkkyyden, modernin indien ja hiphopin rytmisten vivahteiden rajapinnoilla. Hänen kappaleensa rakentuvat runollisten sanoitusten ja tunteellisten sovitusten ympärille, joissa kuuluu niin akustisia sävyjä kuin sykkiviä rytmejä. Vuonna 2024 tuplaplatinaa saavuttanut debyyttialbumi vangitsi kuulijat kuvaamalla elämän suuria teemoja – koti, rakkaus ja menetys – tavalla, joka puhuttelee yli sukupolvien.</p><br><p>Loppuunmyyty <em>Sätkynukkekoti (kaikki tarinat 2020–2024)</em> -konserttisarja on kunnianhimoinen taiteellinen kokonaisuus, jossa Pehmoaino avaa yleisölle oman kasvutarinansa. Akustiset sovitukset, jousisektion syvä ilmaisu ja visuaaliset elementit yhdistyvät luoden ainutlaatuisen elämyksen. Konsertissa kuullaan myös ennenjulkaisemattomia kappaleita ja demoversioita, jotka tarjoavat intiimin näkymän artistin luovaan prosessiin.</p><br><p>Flow Festivalilla tämä uniikki konsertti esitetään viimeistä kertaa, tehden siitä yhden festivaalin odotetuimmista kohokohdista. Pehmoainon kyky yhdistää erilaisia genrejä ja tunteiden kirjoa on tehnyt hänestä artistin, joka puhuttelee laajasti. Pehmoaino saattaa hyvinkin nousta yhdeksi sukupolvensa äänistä.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_pehmoaino.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pehmoaino-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_pehmoaino.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pehmoaino.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW?si=dccfcb94763740c7",
+            "youtube": "XxsDvXWW5oE"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.pehmoaino.fi",
+                        "type": "website"
+                    },
+                    {
+                        "url": "https://www.instagram.com/pehmoaino",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/pehmoaino/",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr?si=F7G9WIinSMWv3g_jYC-ONw",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/c/pehmoaino",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "date": "2025-03-10 03:14:34",
+        "slug_box": {
+            "en": "pariisin-kevat",
+            "fi": "pariisin-kevat"
+        },
+        "title_box": {
+            "en": "Pariisin Kevät",
+            "fi": "Pariisin Kevät"
+        },
+        "description_box": {
+            "en": "<p>Beloved Finnish indie-pop band <strong>Pariisin Kevät</strong> has captivated audiences for over 15 years with its dreamy soundscapes and deeply resonant storytelling. Led by singer-songwriter <strong>Arto Tuunela</strong>, the band is known for poetic lyrics and melodies that seamlessly blend melancholy with danceable rhythms.</p><br><p>After a hiatus of over four years, Pariisin Kevät returned in 2023 with the single <em>Haaveet, haaveet</em>, paving the way for their eighth studio album, <em>Sun yö on pian täällä</em>, released in May 2024. The album carries forward the band’s signature style, intertwining deep emotions with captivating rhythms. Alongside the new release, the band also returned to live stages, much to the delight of fans.</p><br><p>Debuting in front of a 10,000-strong audience at Ilosaarirock, Pariisin Kevät has achieved platinum and gold certifications with albums like <em>Astronautti</em> (2010) and <em>Kaikki on satua</em> (2012). With their enchanting live performances and unique sound, the band has cemented its place as a cornerstone of the Finnish music scene.</p><br>",
+            "fi": "<p>Suomalaisen indiepopin rakastettu kameleontti, <strong>Pariisin Kevät</strong>, on yli 15 vuoden ajan lumonnut yleisönsä unenomaisilla äänimaisemilla ja syvälle porautuvilla tarinoilla. Yhtyeen keulahahmo <strong>Arto Tuunela</strong> tunnetaan erityisesti runollisista lyriikoistaan ja melodioista, jotka yhdistävät tanssittavuuden ja melankolian.</p><br><p>Yli neljän vuoden hiljaisuus päättyi vuonna 2023, kun yhtye julkaisi singlen <em>Haaveet, haaveet</em>, joka avasi tien toukokuussa 2024 ilmestyneelle kahdeksannelle albumille <em>Sun yö on pian täällä</em>. Levy jatkoi Pariisin Kevään tavaramerkiksi muodostunutta tyyliä, jossa syvät tunteet ja vangitseva rytmiikka kietoutuvat saumattomasti yhteen. Samalla yhtye palasi pitkän tauon jälkeen myös keikkalavoille.</p><br><p>Aikoinaan 10 000 ihmisen yleisölle Ilosaarirockissa debytoinut yhtye on saavuttanut platina- ja kultalevymyyntejä albumeillaan, kuten <em>Astronautti</em> (2010) ja <em>Kaikki on satua</em> (2012), ja jatkaa vaikuttavaa taivaltaan suomalaisen musiikin historiassa.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_pariisinkev.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_pariisinkev-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_pariisinkev.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_pariisinkev.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/7wHtm7MfIvcjUbGQUopU7Y?si=16770c59f35244ed",
+            "youtube": "rkEl-1Bnpoc"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/pariisinkevat/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/pariisinkevat/",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny?si=HKYeuyW9Qxu3y-XZwBgNkg",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/user/PariisinKevatVEVO",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "date": "2025-03-10 03:11:49",
+        "slug_box": {
+            "en": "melo",
+            "fi": "melo"
+        },
+        "title_box": {
+            "en": "MELO",
+            "fi": "MELO"
+        },
+        "description_box": {
+            "en": "<p><strong>MELO</strong> has been a bold and unique voice in Finnish music for over five years. His style merges modern rap, r&amp;b, and melodic pop, enriched with influences from electronic music, trap, and classic pop. An Emma Award nominee, MELO is recognized as a trailblazer for a new generation of artists.</p><br><p>On stage, MELO captivates audiences with his enigmatic charisma and powerful energy, drawing them into his world. His music combines playful production, emotional lyrics, and experimental elements. Known for his uncompromising style, MELO has grown into an artist who continually pushes the boundaries of music and redefines its possibilities.</p><br>",
+            "fi": "<p><strong>MELO</strong> on jo yli viiden vuoden ajan ollut rohkea ja ainutlaatuinen ääni suomalaisessa musiikissa. Hänen tyylinsä yhdistelee modernia räppiä, r&amp;b:tä ja melodista poppia, mutta mukana on myös vaikutteita elektronisesta musiikista, trapista ja perinteisemmästä popista. Emma-ehdokkuuksilla huomioitu artisti tunnetaan yhtenä uuden sukupolven suunnannäyttäjänä.</p><br><p>Lavalla MELO vangitsee yleisön mystisellä karismallaan ja vahvalla energiallaan, jotka imevät yleisön mukaan hänen maailmaansa. Musiikissa yhdistyvät leikittelevät tuotannolliset ratkaisut, tunteikkaat tekstit ja kokeelliset elementit, tinkimättömästä tyylistään tunnettu MELO on kasvanut artistiksi, joka jatkuvasti uudistaa ja haastaa musiikin rajoja.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_melo.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_melo-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_melo.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_melo.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi?si=a2de9b43be914b25",
+            "youtube": "AyyyWbjdtbo"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/meloplease/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz?si=XS0ti0HoTniRNQxEadaH1w",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@meloplease",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "date": "2025-03-10 03:09:02",
+        "slug_box": {
+            "en": "saimaa",
+            "fi": "saimaa"
+        },
+        "title_box": {
+            "en": "Saimaa",
+            "fi": "Saimaa"
+        },
+        "description_box": {
+            "en": "<p><strong>Saimaa</strong> is a distinctive gem of Finnish music, celebrated for its boundary-pushing artistry. Led by <strong>Matti Mikkola</strong>, the band first gained wide recognition in 2014 with the album <em>Pepe &amp; Saimaa</em>, a collaboration with Finnish music legend Pepe Willberg. Willberg, a beloved vocalist with a career spanning over six decades, is considered one of Finland’s most iconic artists. On this album, his timeless voice seamlessly blended with the band’s modern and ambitious arrangements, earning widespread acclaim and the Emma Award for Album of the Year—a milestone in Finnish music history.</p><br><p>In 2024, Saimaa released two critically acclaimed albums, <em>Vol. 6</em> and <em>Vol. 7</em>. Both received five-star reviews from major Finnish media outlets such as Helsingin Sanomat and Soundi. Drawing inspiration from classic rock, prog, folk, and schlager, the albums manage to sound fresh and unique. The addition of new vocalists <strong>Unna Kortehisto</strong>, <strong>Liisa Anastasiadis</strong>, <strong>Nelli Saarikoski</strong>, and <strong>Kimmo Härmä</strong> adds depth and richness to the band’s sound.</p><br><p>Saimaa’s music bridges the past and the present, blending tradition and innovation. The band’s compositions and arrangements showcase extraordinary creativity and precision, yet their core remains profoundly emotional. Saimaa carves its own deliberate path in Finnish music—and does so with undeniable style.</p><br>",
+            "fi": "<p><strong>Saimaa</strong> on suomalaisen musiikin omaleimainen taidonnäyte, joka tunnetaan rajoja rikkovasta ilmaisustaan. <strong>Matti Mikkolan</strong> johtama yhtye nousi suuren yleisön tietoisuuteen vuonna 2014 albumilla <em>Pepe &amp; Saimaa</em>, jossa Pepe Willbergin klassinen ääni kohtasi yhtyeen modernit ja kunnianhimoiset sovitukset. Albumi sai laajaa kiitosta ja palkittiin Vuoden albumin Emma-palkinnolla, jättäen pysyvän jäljen suomalaiseen musiikkihistoriaan.</p><br><p>Vuonna 2024 Saimaa julkaisi kaksi kiitettyä albumia, <em>Vol. 6</em> ja <em>Vol. 7</em>, jotka saivat viiden tähden arvioita useilta suomalaisilta medioilta, kuten Helsingin Sanomilta ja Soundilta. Albumit ammentavat vaikutteita classic rockista, progesta, folkista ja iskelmästä, mutta onnistuvat silti kuulostamaan raikkailta ja omaleimaisilta. Uusien laulajien, <strong>Unna Kortehiston</strong>, <strong>Liisa Anastasiadiksen</strong>, <strong>Nelli Saarikosken</strong> ja <strong>Kimmo Härmän</strong>, tulkinnat tuovat yhtyeen ilmeeseen syvyyttä ja moniäänisyyttä.</p><br><p>Saimaan musiikissa kuuluvat yhtä aikaa historia ja nykyaika – perinteet ja innovaatio. Yhtyeen sävellykset ja sovitukset osoittavat poikkeuksellista luovuutta ja tarkkuutta, mutta niiden sydän on vahvasti tunteisiin vetoava. Saimaa kulkee harkittuja omia polkujaan suomalaisessa musiikissa ja tekee sen tyylillä.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_saimaa.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_saimaa-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_saimaa.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_saimaa.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/2ueOwsNE2CUw62knNo8k47?si=271cfe6c69c04dcf",
+            "youtube": ""
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/saimaaband/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/saimaaband",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR?si=5qSrb36ITXavpUaI0N3Gag",
+                        "type": "spotify"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "date": "2025-03-10 03:05:39",
+        "slug_box": {
+            "en": "regina-soita-mulle",
+            "fi": "regina-soita-mulle"
+        },
+        "title_box": {
+            "en": "Regina: Soita mulle",
+            "fi": "Regina: Soita mulle"
+        },
+        "description_box": {
+            "en": "<p><strong>Regina</strong> makes a highly anticipated return in its original lineup after over a decade. The acclaimed trio of <strong>Iisa Pajula</strong>, <strong>Mikko Pykäri</strong>, and <strong>Mikko Rissanen</strong> will celebrate their beloved <em>Soita mulle</em> album by performing it in its entirety. Released in 2011, the record marked a turning point for the band, with their earlier electronic pop evolving into a more guitar-driven, shoegaze-inspired sound. The album was praised for its atmospheric and refined production, debuting at number five on the Finnish album chart.</p><br><p>The band members have since left a significant mark on Finland&#8217;s music scene. Iisa Pajula has built a successful solo career under the name Iisa, releasing several critically acclaimed albums. Mikko Pykäri, on the other hand, has produced solo work under the name Pykäri and collaborated as a producer and songwriter for various Finnish artists, such as Chisu and Yona. Additionally, he has played in other bands, including Shine 2009 and Babel.</p><br><p>Soita mulle has maintained its cult status over the years, cementing its place as one of the finest Finnish indie pop albums of its era. Particularly, the song <em>Jos et sä soita</em> has become a classic in Finnish indie music history.</p><br>",
+            "fi": "<p><strong>Regina</strong> tekee odotetun paluun alkuperäiskokoonpanossaan yli vuosikymmenen tauon jälkeen. <strong>Iisa Pajulan</strong>, <strong>Mikko Pykärin</strong> ja <strong>Mikko Rissasen</strong> muodostama indiepopin kärkinimi juhlistaa arvostettua <em>Soita mulle</em> -albumiaan, joka kuullaan konsertissa kokonaisuudessaan. Vuonna 2011 julkaistu levy merkitsi yhtyeelle musiikillista käännekohtaa: aiempi elektroninen pop sai rinnalleen kitaravetoisempaa shoegaze-henkeä. Albumia kiiteltiin sen tunnelmallisuudesta ja hienostuneesta tuotannosta, ja se nousi ilmestyessään Suomen albumilistan viidenneksi.</p><br><p>Yhtyeen jäsenet ovat sittemmin jättäneet jälkensä suomalaisen musiikin kenttään monin tavoin. Iisa Pajula on luonut menestyksekkään soolouran artistinimellä Iisa ja julkaissut useita kiiteltyjä albumeja. Mikko Pykäri puolestaan on tehnyt soolotuotantoa Pykäri-nimellä ja toiminut tuottajana sekä säveltäjänä monille suomalaisille artisteille, kuten Chisulle ja Yonalle. Lisäksi hän on soittanut muissa yhtyeissä, kuten Shine 2009:ssa ja Babelissa.</p><br><p>Soita mulle on säilyttänyt kulttimaineensa vuosien saatossa ja noussut yhdeksi aikakautensa hienoimmista kotimaisista indiepop-albumeista. Erityisesti kappale <em>Jos et sä soita</em> on jäänyt elämään suomalaisen indien klassikkona.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_regina.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_regina-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_regina.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_regina.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/64Q9YRmB8PxLh4KT4ftT7s?si=1da8336bec924d56",
+            "youtube": "M9fUxGSmMpU"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/regina_soita_mulle/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/4COCsob5jcnZPAe3QjARrc?si=9f19380c83ff4578",
+                        "type": "spotify"
+                    },
+                    {
+                        "url": "https://www.youtube.com/@reginareginaxxx",
+                        "type": "youtube"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "date": "2025-03-10 03:02:09",
+        "slug_box": {
+            "en": "dj-ibusal",
+            "fi": "dj-ibusal"
+        },
+        "title_box": {
+            "en": "DJ Ibusal",
+            "fi": "DJ Ibusal"
+        },
+        "description_box": {
+            "en": "<p><strong>DJ Ibusal</strong> is a distinctive voice in Finnish rap, celebrated for his sharp lyrics and unique production style. Also known as Thube Hefner of the popular rap group Gasellit, Ibusal has established himself both as a solo artist and a key member of the band. His fourth studio album, <em>Mukava Paikka</em>, released in October 2024, delves into the contrasts between a pleasant environment and inner restlessness. The album has been praised for its deep themes and Ibusal’s laid-back, self-ironic approach.</p><br><p>His previous solo album, <em>Yksin kotona 17</em> (2018), was a surprise hit, featuring the viral track <em>Pilalla</em> and the fan favorite <em>Anna mun olla rauhas</em>. The album’s reflective lyrics and minimalist production captivated critics and listeners alike, while his rare live performances drew packed audiences. Ibusal is also known for his active collaborations within Finnish rap, having worked with artists such as JVG, Ege Zulu, Kube, and Paperi T. These projects have further enriched his music and solidified his position as one of the most original voices in Finnish hip hop.</p><br>",
+            "fi": "<p><strong>DJ Ibusal</strong> on suomalaisen räpin omaleimainen ääni, joka tunnetaan yhtä lailla nokkelista sanoituksistaan kuin uniikista tuotannostaan. Gasellien Thube Hefnerinäkin tunnettu artisti on uransa aikana vakiinnuttanut paikkansa niin sooloartistina kuin Gasellien jäsenenä. DJ Ibusalin neljäs studioalbumi <em>Mukava Paikka</em> ilmestyi lokakuussa 2024. Albumilla tutkitaan vastakohtia: mukavaa ympäristöä ja levotonta mieltä, ja se on saanut kiitosta syväluotaavista teemoistaan sekä Ibusalin rennon itseironisesta otteesta.</p><br><p>Edellinen soololevy <em>Yksin kotona 17</em> (2018) oli yllätyshitti, joka sisälsi viraaliksi nousseen kappaleen <em>Pilalla</em> sekä suositun <em>Anna mun olla rauhas</em>. Albumin lakonisen pohdiskelevat lyriikat ja minimalistinen tuotanto vakuuttivat kriitikot ja kuulijat, ja harvinaiset live-esiintymiset keräsivät runsaasti yleisöä. Ibusal on tunnettu myös aktiivisesta roolistaan suomiräpin yhteistyökuvioissa, ja hän on työskennellyt muun muassa JVG:n, Ege Zulun, Kuben ja Paperi T:n kanssa.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_djibusal.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_djibusal-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_djibusal.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_djibusal.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/2YwhShTjQgCaJbkBw9u8vc?si=44bb722218a2442f",
+            "youtube": "cR1S63bECFc"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/thubehefner",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://www.facebook.com/djibusal/",
+                        "type": "facebook"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX?si=KrsDhbMaShCI9rjccXJmqw",
+                        "type": "spotify"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "date": "2025-03-10 02:57:26",
+        "slug_box": {
+            "en": "emma-matilda",
+            "fi": "emma-matilda"
+        },
+        "title_box": {
+            "en": "emma & matilda",
+            "fi": "emma & matilda"
+        },
+        "description_box": {
+            "en": "<p>With their soft and delicate bedroom folk, <strong>emma &amp; matilda</strong> have become a small phenomenon even before the release of their debut album. The young duo writes, performs, and produces most of their music themselves, often creating it in the intimate setting of their bedrooms. Their songs explore relationships and emotions, offering a comforting space for difficult feelings.</p><br><p>Their debut EP, <em>Siellä on kaikki niin ihanaa</em>, released in spring 2023, garnered over 10 million streams and earned them three Emma Award nominations. The TikTok sensation <em>Veronica</em> spent over a month on Spotify&#8217;s Top 50 chart and gained extensive radio play.</p><br>",
+            "fi": "<p>Herkällä ja pehmeällä bedroom-folkillaan valloittanut duo <strong>emma &amp; matilda</strong> on jo ennen debyyttialbuminsa julkaisua noussut pieneksi ilmiöksi. Parikymppiset ystävykset kirjoittavat, soittavat ja tuottavat kappaleensa pitkälti itse, ja musiikki syntyy usein intiimisti makuuhuoneessa. Kappaleiden teemat kumpuavat ihmissuhteista, tarjoten lohduttavaa tilaa kipeille tunteille.</p><br><p>Keväällä 2023 julkaistu debyytti-EP <em>Siellä on kaikki niin ihanaa</em> keräsi yli 10 miljoonaa striimiä ja toi heille kolme Emma-ehdokkuutta. TikTokissa viraaliksi noussut <em>Veronica</em> viihtyi Spotifyn Top 50 -listalla yli kuukauden ja sai laajaa radiosoittoa.</p><br>"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_emmajamatil.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_emmajamatil-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_emmajamatil.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_emmajamatil.jpg"
+                    }
+                }
+            ]
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/7sh5CvW4iq5lwA8EsvJN96?si=81c342e2223d4029",
+            "youtube": "94k4KHP3zLE"
+        },
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/emmajamatilda/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV?si=sqqPoOULRQiXjI0yswWndw",
+                        "type": "spotify"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "date": "2025-03-10 02:36:19",
+        "slug_box": {
+            "en": "good-boys",
+            "fi": "good-boys"
+        },
+        "en": "good boys",
+        "fi": "good boys",
+        "portrait": [
+            {
+                "ID": 89,
+                "id": 89,
+                "title": "Pysty_goodboys",
+                "filename": "Pysty_goodboys.jpg",
+                "filesize": 3128748,
+                "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys.jpg",
+                "link": "http://localhost:8000/artist/good-boys/pysty_goodboys/",
+                "alt": "",
+                "author": "1",
+                "description": "",
+                "caption": "",
+                "name": "pysty_goodboys",
+                "status": "inherit",
+                "uploaded_to": 88,
+                "date": "2025-03-10 02:32:38",
+                "modified": "2025-03-10 02:49:32",
+                "menu_order": 0,
+                "mime_type": "image/jpeg",
+                "type": "image",
+                "subtype": "jpeg",
+                "icon": "http://localhost:8000/wp-includes/images/media/default.png",
+                "width": 1920,
+                "height": 2400,
+                "sizes": {
+                    "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-150x150.jpg",
+                    "thumbnail-width": 150,
+                    "thumbnail-height": 150,
+                    "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-240x300.jpg",
+                    "medium-width": 240,
+                    "medium-height": 300,
+                    "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-768x960.jpg",
+                    "medium_large-width": 768,
+                    "medium_large-height": 960,
+                    "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-819x1024.jpg",
+                    "large-width": 819,
+                    "large-height": 1024,
+                    "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-1229x1536.jpg",
+                    "1536x1536-width": 1229,
+                    "1536x1536-height": 1536,
+                    "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-1638x2048.jpg",
+                    "2048x2048-width": 1638,
+                    "2048x2048-height": 2048
+                }
+            }
+        ],
+        "landscape": [
+            {
+                "ID": 90,
+                "id": 90,
+                "title": "Vaaka_goodboys",
+                "filename": "Vaaka_goodboys-1.jpg",
+                "filesize": 1827840,
+                "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1.jpg",
+                "link": "http://localhost:8000/artist/good-boys/vaaka_goodboys/",
+                "alt": "",
+                "author": "1",
+                "description": "",
+                "caption": "",
+                "name": "vaaka_goodboys",
+                "status": "inherit",
+                "uploaded_to": 88,
+                "date": "2025-03-10 02:32:45",
+                "modified": "2025-03-10 02:49:35",
+                "menu_order": 0,
+                "mime_type": "image/jpeg",
+                "type": "image",
+                "subtype": "jpeg",
+                "icon": "http://localhost:8000/wp-includes/images/media/default.png",
+                "width": 2046,
+                "height": 1150,
+                "sizes": {
+                    "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-150x150.jpg",
+                    "thumbnail-width": 150,
+                    "thumbnail-height": 150,
+                    "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-300x169.jpg",
+                    "medium-width": 300,
+                    "medium-height": 169,
+                    "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-768x432.jpg",
+                    "medium_large-width": 768,
+                    "medium_large-height": 432,
+                    "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-1024x576.jpg",
+                    "large-width": 1024,
+                    "large-height": 576,
+                    "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-1536x863.jpg",
+                    "1536x1536-width": 1536,
+                    "1536x1536-height": 863,
+                    "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1.jpg",
+                    "2048x2048-width": 2046,
+                    "2048x2048-height": 1150
+                }
+            }
+        ],
+        "spotify": "https://open.spotify.com/track/2W7uyGlvQD2189o4IvjqP8?si=f8919d14a2d44ac1",
+        "youtube": "https://www.youtube.com/watch?v=y8c542CYD18",
+        "social_box": [
+            {
+                "name": "",
+                "social_field": [
+                    {
+                        "url": "https://www.instagram.com/hyvatpoitsut/",
+                        "type": "instagram"
+                    },
+                    {
+                        "url": "https://open.spotify.com/artist/79hIs89TAEz3EhIuYAJ4bU?si=2x6yZuVqTMymFCMz_cB9pw",
+                        "type": "spotify"
+                    }
+                ]
+            }
+        ],
+        "event": [
+            {
+                "date": false,
+                "time": "",
+                "duration": "",
+                "venue": false,
+                "event_id": ""
+            }
+        ],
+        "description_box": {
+            "en": "<p>The most talked-about alternative hip-hop group in Helsinki right now, <strong>good boys</strong>, effortlessly places themselves alongside the genre-defying pioneers of Finnish rap, such as Asa, Giant Robot, Ruudolf, and Ceebrolistics. At the same time, their irresistibly catchy sound carries the hit potential of artists like Gasellit and JVG, drawing in audiences at both clubs and festival stages.The band&#8217;s music combines new-wave sample-based production, trap rhythms, lo-fi aesthetics, the groove of jazz-inspired &#8217;90s hip-hop, and the uncompromising edge of alternative music. Their lyrics dive into the pulse of city life and the bittersweet energy of youth—delivered with a homemade charm, a playful twinkle in the eye, and fresh insights.Good Boys are particularly known for their captivating live performances, with Rumba magazine hailing them as &#8220;the hottest live act in Finland right now.&#8221;</p><br>",
+            "fi": "<p>Helsinkiläinen vaihtoehtoisen hiphopin tämän hetken hehkutetuin yhtye <strong>good boys</strong> sijoittuu lämpimällä otteellaan samaan jatkumoon suomiräpin genrerajoja rikkovien pioneerien kuten Asan, Giant Robotin, Ruudolfin ja Ceebrolisticsin kanssa. Toisaalta heidän tarttuvassa soinnissaan kuuluu myös Gasellien ja JVG:n kaltaista hittipotentiaalia, joka houkuttelee kuulijat mukaansa niin klubeilla kuin festivaalilavoilla.Good boysin musiikki yhdistelee uuden aallon samplepohjaisen tuotannon, trapin rytmit, lofi-estetiikan, jazz-pohjaisen hiphopin grooven ja vaihtoehtomusiikin tinkimättömän otteen. Lyriikoissaan he käsittelevät kaupungin elämän sykettä ja nuoruuden energian melankoliaa – kotikutoisesti, pilke silmäkulmassa ja samalla raikkaan oivaltavasti.Good boys tunnetaan eritoten vangitsevista live-esiintymisistään, ja Rumba-lehti on hehkuttanut yhtyettä tämän hetken kovimmaksi live-yhtyeeksi Suomessa.</p><br>"
+        },
+        "title_box": {
+            "en": "good boys",
+            "fi": "good boys"
+        },
+        "embedded_box": {
+            "spotify": "https://open.spotify.com/track/2W7uyGlvQD2189o4IvjqP8?si=f8919d14a2d44ac1",
+            "youtube": "https://www.youtube.com/watch?v=y8c542CYD18"
+        },
+        "image_box": {
+            "portrait": [
+                {
+                    "filename": "Pysty_goodboys.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 1920,
+                    "height": 2400,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-240x300.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-768x960.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-819x1024.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-1229x1536.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Pysty_goodboys-1638x2048.jpg"
+                    }
+                }
+            ],
+            "landscape": [
+                {
+                    "filename": "Vaaka_goodboys-1.jpg",
+                    "url": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1.jpg",
+                    "alt": "",
+                    "description": "",
+                    "caption": "",
+                    "menu_order": 0,
+                    "mime_type": "image/jpeg",
+                    "type": "image",
+                    "subtype": "jpeg",
+                    "width": 2046,
+                    "height": 1150,
+                    "sizes": {
+                        "thumbnail": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-150x150.jpg",
+                        "medium": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-300x169.jpg",
+                        "medium_large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-768x432.jpg",
+                        "large": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-1024x576.jpg",
+                        "1536x1536": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1-1536x863.jpg",
+                        "2048x2048": "http://localhost:8000/wp-content/uploads/2025/03/Vaaka_goodboys-1.jpg"
+                    }
+                }
+            ]
+        }
+    }
+]

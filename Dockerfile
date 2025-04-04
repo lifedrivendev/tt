@@ -35,6 +35,13 @@ RUN composer install --no-dev --prefer-dist --no-interaction
 COPY custom-event-id-plugin /var/www/html/wp-content/plugins/custom-event-id-plugin
 RUN chown -R www-data:www-data /var/www/html/wp-content/plugins/custom-event-id-plugin
 
+WORKDIR /var/www/html/wp-content/plugins/custom-file-upload-plugin
+COPY custom-file-upload-plugin/composer.json /var/www/html/wp-content/plugins/custom-file-upload-plugin/
+RUN composer install --no-dev --prefer-dist --no-interaction
+COPY custom-file-upload-plugin /var/www/html/wp-content/plugins/custom-file-upload-plugin
+RUN chown -R www-data:www-data /var/www/html/wp-content/plugins/custom-file-upload-plugin
+
+
 # Set up file permissions, .htaccess, and S3 mount point
 RUN mkdir -p /var/www/html/wp-content/uploads && \
     touch /var/www/html/.htaccess && \

@@ -1,4 +1,4 @@
 {
-    "name": "tieto/old-deployment-plugin",
-    "description": "Custom WordPress plugin for Flow Festival deployment triggers for old structure"
+    "name": "tieto/custom-event-id-plugin",
+    "description": "Custom WordPress plugin creating event ids when an event is created"
 }

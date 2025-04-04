@@ -77,7 +77,7 @@ To add data via REST:
 
 Build:  
 ```
-docker build -t <IMAGE_NAME>:latest .
+docker build -t cms:latest .
 ```
 
 Run:

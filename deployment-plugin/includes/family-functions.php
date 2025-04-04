@@ -24,6 +24,7 @@ function generate_family_data_json_file($dir)
         while ($query->have_posts()) {
             $query->the_post();
             $post_id = get_the_ID();
+            $post_date = get_post_datetime();
             $acf_fields = function_exists('get_fields') ? get_fields($post_id) : array();
 
             if (isset($acf_fields['image_box']) && is_array($acf_fields['image_box'])) {
@@ -48,6 +49,7 @@ function generate_family_data_json_file($dir)
             $data[] = array_merge(
                 array(
                     'id' => $post_id,
+                    'date' => $post_date->format('Y-m-d H:i:s'),
                     'slug_box' => $slug_box,
                 ),
                 $acf_fields
