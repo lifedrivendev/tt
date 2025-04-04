@@ -33,7 +33,7 @@ jobs:
       - name: Build Docker image
         env:
           REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          REPOSITORY: my-repo
+          REPOSITORY: flowfestival/cms
           IMAGE_TAG: ${{ github.sha }}
         run: |
           echo "Building image $REGISTRY/$REPOSITORY:$IMAGE_TAG"
@@ -42,7 +42,7 @@ jobs:
       - name: Push Docker image to ECR
         env:
           REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          REPOSITORY: my-repo
+          REPOSITORY: flowfestival/cms
           IMAGE_TAG: ${{ github.sha }}
         run: |
           echo "Pushing image $REGISTRY/$REPOSITORY:$IMAGE_TAG"
